@@ -1,4 +1,0 @@
-# Personal site — intentionally not indexed.
-# Reachable by anyone with the link, but kept out of search engines.
-User-agent: *
-Disallow: /

@@ -32,10 +32,11 @@ Pure patience is not for the desperate.
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var rr=Object.entries(tr).map(([e,t])=>{let{data:n,content:r}=nr(t);return{slug:e.split(`/`).pop().replace(`.md`,``),date:n.date||``,body:r,draft:n.draft===`true`}}).filter(e=>!e.draft).sort((e,t)=>new Date(t.date)-new Date(e.date));function ir(e){return{__html:window.marked.parseInline(e)}}function ar(){let e=ft(),{slug:t}=mt(),n=t?rr.find(e=>e.slug===t):null;return(0,x.useEffect)(()=>{t&&!n&&e(`/thoughts`,{replace:!0})},[t,n,e]),n?(0,j.jsxs)(`section`,{className:`section active`,id:`thoughts`,children:[(0,j.jsx)(`button`,{className:`back-btn`,onClick:()=>e(`/thoughts`),children:`← All thoughts`}),(0,j.jsxs)(`div`,{className:`thought`,children:[(0,j.jsx)(`div`,{className:`thought-date`,children:n.date}),(0,j.jsx)(`div`,{className:`thought-body`,dangerouslySetInnerHTML:ir(n.body)})]})]}):(0,j.jsxs)(`section`,{className:`section active`,id:`thoughts`,children:[(0,j.jsx)(`h2`,{className:`section-heading`,children:`Short bursts`}),(0,j.jsx)(`p`,{className:`section-sub`,children:`Quips and Things on my mind. Mostly Unfiltered. Except things that could land me in jail because going to jail probably kinda sucks.`}),(0,j.jsx)(`div`,{id:`thoughts-list`,children:rr.map(t=>(0,j.jsxs)(`div`,{className:`thought`,children:[(0,j.jsx)(`button`,{className:`thought-date thought-permalink`,onClick:()=>e(`/thoughts/${encodeURIComponent(t.slug)}`),title:`Permalink to this thought`,children:t.date}),(0,j.jsx)(`div`,{className:`thought-body`,dangerouslySetInnerHTML:ir(t.body)})]},t.slug))})]})}var or=Object.assign({"../content/posts/Dualities.md":`---
 title: Stuck Between the Two?
 date: Jun 12, 2026
-draft: true
+draft: false
 excerpt: Let's go beyond dichotomies.
 ---
 
+I am just testing. ABC ka fafda, Chain khuli ki main khuli.
 
 # Either 
 

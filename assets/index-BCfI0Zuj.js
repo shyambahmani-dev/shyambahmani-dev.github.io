@@ -29,23 +29,115 @@ date: Jun 12, 2026
 
 Pure patience is not for the desperate.
 `});function nr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
-`).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var rr=Object.entries(tr).map(([e,t])=>{let{data:n,content:r}=nr(t);return{slug:e.split(`/`).pop().replace(`.md`,``),date:n.date||``,body:r,draft:n.draft===`true`}}).filter(e=>!e.draft).sort((e,t)=>new Date(t.date)-new Date(e.date));function ir(e){return{__html:window.marked.parseInline(e)}}function ar(){let e=ft(),{slug:t}=mt(),n=t?rr.find(e=>e.slug===t):null;return(0,x.useEffect)(()=>{t&&!n&&e(`/thoughts`,{replace:!0})},[t,n,e]),n?(0,j.jsxs)(`section`,{className:`section active`,id:`thoughts`,children:[(0,j.jsx)(`button`,{className:`back-btn`,onClick:()=>e(`/thoughts`),children:`← All thoughts`}),(0,j.jsxs)(`div`,{className:`thought`,children:[(0,j.jsx)(`div`,{className:`thought-date`,children:n.date}),(0,j.jsx)(`div`,{className:`thought-body`,dangerouslySetInnerHTML:ir(n.body)})]})]}):(0,j.jsxs)(`section`,{className:`section active`,id:`thoughts`,children:[(0,j.jsx)(`h2`,{className:`section-heading`,children:`Short bursts`}),(0,j.jsx)(`p`,{className:`section-sub`,children:`Quips and Things on my mind. Mostly Unfiltered. Except things that could land me in jail because going to jail probably kinda sucks.`}),(0,j.jsx)(`div`,{id:`thoughts-list`,children:rr.map(t=>(0,j.jsxs)(`div`,{className:`thought`,children:[(0,j.jsx)(`button`,{className:`thought-date thought-permalink`,onClick:()=>e(`/thoughts/${encodeURIComponent(t.slug)}`),title:`Permalink to this thought`,children:t.date}),(0,j.jsx)(`div`,{className:`thought-body`,dangerouslySetInnerHTML:ir(t.body)})]},t.slug))})]})}var or=Object.assign({"../content/posts/Dualities.md":`---
+`).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var rr=Object.entries(tr).map(([e,t])=>{let{data:n,content:r}=nr(t);return{slug:e.split(`/`).pop().replace(`.md`,``),date:n.date||``,body:r,draft:n.draft===`true`}}).filter(e=>!e.draft).sort((e,t)=>new Date(t.date)-new Date(e.date));function ir(e){return{__html:window.marked.parseInline(e)}}function ar(){let e=ft(),{slug:t}=mt(),n=t?rr.find(e=>e.slug===t):null;return(0,x.useEffect)(()=>{t&&!n&&e(`/thoughts`,{replace:!0})},[t,n,e]),n?(0,j.jsxs)(`section`,{className:`section active`,id:`thoughts`,children:[(0,j.jsx)(`button`,{className:`back-btn`,onClick:()=>e(`/thoughts`),children:`← All thoughts`}),(0,j.jsxs)(`div`,{className:`thought`,children:[(0,j.jsx)(`div`,{className:`thought-date`,children:n.date}),(0,j.jsx)(`div`,{className:`thought-body`,dangerouslySetInnerHTML:ir(n.body)})]})]}):(0,j.jsxs)(`section`,{className:`section active`,id:`thoughts`,children:[(0,j.jsx)(`h2`,{className:`section-heading`,children:`Short bursts`}),(0,j.jsx)(`p`,{className:`section-sub`,children:`Quips and Things on my mind. Mostly Unfiltered. Except things that could land me in jail because going to jail probably kinda sucks.`}),(0,j.jsx)(`div`,{id:`thoughts-list`,children:rr.map(t=>{let n=()=>e(`/thoughts/${encodeURIComponent(t.slug)}`);return(0,j.jsxs)(`div`,{className:`thought thought-clickable`,role:`link`,tabIndex:0,title:`Open this thought`,onClick:e=>{e.target.closest(`a`)||n()},onKeyDown:e=>{(e.key===`Enter`||e.key===` `)&&(e.preventDefault(),n())},children:[(0,j.jsx)(`div`,{className:`thought-date`,children:t.date}),(0,j.jsx)(`div`,{className:`thought-body`,dangerouslySetInnerHTML:ir(t.body)})]},t.slug)})})]})}var or=Object.assign({"../content/posts/Dualities.md":`---
 title: Stuck Between the Two?
 date: Jun 12, 2026
 draft: true
 excerpt: Let's go beyond dichotomies.
 ---
 
-I am just testing. ABC ka fafda, Chain khuli ki main khuli.
-
-# Either 
+# EITHER!!, OR!!!! 
 
 
 
 Most ideas breakdown into framework choices based on what one optimizes for. Usually two, both having some pros and cons. Then begins the Sisyphean task of debating them, finding out situations where one choice works better than the other and vice-versa.
 
-Be it Politically Left vs Right, Deontology vs Utilitarianism, Liberalism vs Conservatism, Communism or Capitalism. You get the jist. One either supports gender identities or hates them.
+Be it being politically Left vs Right, Deontology vs Utilitarianism, Liberalism vs Conservatism, Communism or Capitalism. You are either Closed Minded, not accepting of any new ideas, absolutely rigid in your beliefs; or you are open-minded to everything, nothing is objectively right or wrong, everyone has their own truth. You get the jist.
 
+One either supports gender identities or hates them.
+
+
+`,"../content/posts/I have been in this dilemma.md":`---
+title: Compromise
+date: Jun 12, 2026
+draft: true
+excerpt: What do I do?
+---
+
+
+I have been in this dilemma and I do find a lack of content regarding it, I wrote a piece about it recently and here is a gist of it.
+
+If her statements or actions induce the discomfort of jealousy within, then it simply means that something must change. Either her behavior or your investment levels. You must not ignore or try to rationalize away the feeling of jealousy. If you do, that is where "betaization" begins (I'll explain the nuances later).
+
+I have found it to be the case that mate guarding is unattractive only if you do it in a bitchy, "pweez mommy" manner. Sometimes you just have to put a her on the line, because sometimes women want to be put in line. It can be a subliminal shit test on her part, trying to see if you can challenge her and confidently enforce your claim over her without getting your fee-fees hurt. So use concepts from WISNIFG and simply state boundaries as:
+
+"I don't like it"
+
+"I don't stay in relationships where this thing happens."
+
+"I can't take you seriously if you do these things."
+
+You state them without DEERing (without defending, explaining, excusing or rationalizing). Go the broken record route or use fogging, whatever it is that you do without being a bitch.
+
+If she decides to continue with her impropriety, then you must leave. And it's a good thing, you got rid of a girl who wasn't as invested as you were. If you state these boundaries, and she continues with her impropriety and you don't leave her, congrats, you proved to her that you are bitch and now she actively is looking to switch boats (how that affects you personally, I'll come to that later when I explain betaization)
+
+If she decides to stay and follow your boundaries, then she will gain respect for you, given that you didn't put her in a hostile situation, but rather had her go through a simple decision making process, where she is free to do what she wants. Don't make her feel like a bad person for not choosing you, simply be relaxed. You should be happy that you got rid of her without going through the pain of betrayal or cheating.
+
+Coming to betaization, it will occur if you either rationalize away the feeling jealousy and don't state your boundary, or if you state your boundary, she continues with the impropriety and you still decide to not leave her. What we have to understand about jealousy is that it is an instinct, that we as men developed as response to risk of loss of paternity. Respect it, it is instinctual, thus doesn't need any rational argument, if you feel it then that's reason enough for you to tell her to stop. The effect of perception of impropriety, and actual impropriety is the same. And the effect of digesting or rationalizing it away in our heads is also the same. Explained in follow-up comment.
+5
+u/BigBoiTFB avatar
+BigBoiTFB
+•
+2y ago
+
+The anxiety you feel when you experience jealousy, doesn't go away when you try to rationalize it or digest it. It stays within you, and it will build up. Whether or not you choose to acknowledge it, it stays there. And like a disease it will spread, with the following symptoms:
+
+1.      A constant sense of unease and botheration. Constant concern about the health of your relationship, and doubts on whether she loves you or not. Suspicions about her developing desire for someone else.
+
+2.      You will constantly be concerned with what she is doing, because of which you will become clingy. You start to desire and hold onto her attention and presence as much as you can, becoming needy and over-bearing (instead of the other way around).
+
+3.      You will start doubting your decisions, your perspective and your judgement. And why wouldn't you? You just proved to yourself that you don't value your judgement, that you don't trust what your mind, instincts and body tell you. You essentially lose respect for your own self. Moreover, you start to ask your wife for judgement over matters of life, and will start seeking validation and appreciation from her. And with that the series of covert contracts unfold.
+
+These are all essentially unattractive qualities that you will manifest in yourself, and they will slowly grow over you.
+
+As you continue to manifest these behaviors, you also start to overlook and justify her implied or realized cheating behavior because you want to prove your love right, and have as you have demonstrated to yourself that she is the better judge over matters, and that you look to her for leadership; you begin to ignore what your own senses tell you.
+
+As the anxiety and discomfort builds up, you will be bothered by it, whether or not you acknowledge it. It will affect your behavior, and the stability and firmness of your resolve. You continue to feel bad about her behavior. Then, you conclude consciously or sub-consciously that if you just make her happy enough, if you just be a good-boy who listens to her and does good things for her, then she will feel indebted to you and will stop with her impropriety. If you just make her fall more in love with you, she will stop. This makes you double down on validation seeking behaviors and covert contracts.
+
+You will also start to develop resentment, which will slip out in subtle as well as very overt ways. Snarky remarks, bitching about the people you don't like to her, overtly asking or subtly insinuating questions like why does she do this, what makes her want to do this, what does she get out of it, trying to mate-guard (note the usage of the word "trying") like a bitch. In moments when things might actually be good between you and her, you will try to bring up your discontentment with her bullshit behavior because your bitch-ass couldn't do it properly by establishing boundaries during the heated moments, and thus in your moments of "happy-times" you will try to leverage her good mood to get her to agree with you. Like a child tries to talk to his/her parents to get them a toy when the parents seem to be in a good mood. (Follow up in next comment)
+4
+u/BigBoiTFB avatar
+BigBoiTFB
+•
+2y ago
+
+You will essentially lose the core of what being a man is, for a man is his own judge. You turn into a quintessential faggot.
+
+What one has to understand is that she did not get wet, nor did she love this faggot version of you. And whenever you compromise, you begin to turn into aforementioned faggot. You essentially kill the confident, strong-willed version of you, and become a clingy piece of shit who can't respect himself enough to not tolerate bullshit. She will internally detest this version of you, and trample on you and the relationship completely.
+
+Therefore, both the outcomes where you:
+
+    Acknowledge and trust your instincts and judgement
+
+    Express your discontent and then act on your boundaries
+
+Are much better than being turned into a husk of a man. If she is not invested enough in the relationship to keep away from bullshit, then tolerating it will do nothing more than turn you into a trampoline to give her a comfortable launching pad for her to next you, often in the most ruthless ways possible.
+
+ 
+
+So, if she doesn't respect your boundaries, understand thoroughly that the relationship will end. Either:
+
+a.       You preserve your dignity and manhood, and next her.
+
+or
+
+b.      Turn into a shittier version of yourself and then she will leave you.
+
+ 
+
+In the world that you share with her, and have a vision for, there must be no space for discomfort from outside forces. If the world you create, live in and share with her; cannot function without making you uncomfortable, then burn it. Let it go. Let it go before it deteriorates and burns you.
+
+ 
+
+Some people will critique “But what about trust?” To them I say this, that trust does not mean tolerating discomfort and trying to digest anxiety. It means knowing she will not cross your boundaries when she is unseen and that she will not hide things from you if she does. Trust means that you won't have to track her, that you won't have to interrogate her. Trust is not about tolerating bullshit, and then having to deal with the resulting anxiety.
+
+ 
+
+Therefore, never compromise men. Whenever you start feeling uneasy with her behavior, just know you are tolerating something you shouldn't.
+
+ 
+
+"If it looks like she is not invested, sounds like she is not invested, and acts like she is not invested, then she probably is not invested."
 
 `,"../content/posts/My Collection of Quotes.md":`---
 title: My Collection of Quotes
@@ -583,6 +675,112 @@ I can quite easily tell if something I have created is half-good or not. I know 
 
 
 I would say that I am a pretty good communicator. I usually rely on being a great listener, and a great question-asker. But I sometimes find being around groups of people to be quite tiring. I think that also explains where my stance regarding marketing comes from.
+
+
+`,"../content/posts/the-slow-poison-called-compromise.md":`---
+title: The slow poison of Compromise
+date: Jun 14, 2026
+draft: true
+excerpt: Would you eat soggy-moldy bread just to make them happy?
+---
+
+
+
+I write after having been struck a little in life. I got cheated on. I didn’t get what I wanted, I was feeling dejected (or feel rejected to be honest). The form that this feeling took, was dark and soul-deadening. But once the waves of emotional turmoil tone down a bit, my mind was forced to think:
+
+### “What in good God’s name (Shri Vishnu Bhagwaan ji) just happened? What part did I have in it? And how do I avoid this in future?”
+
+If you are not there yet, then there is no point reading in what’s ahead. Settle down and get back. If you are running away from these questions, then come back once you are tired of it and can’t help it. Hopefully you didn’t damage yourself or anyone else too much in the process of running away from these questions. 
+
+This article pertains specifically to being cheated on in a relationship, from the perspective of a man (a conventional “**Man<sup>TM</sup>**”). Take from it what you will. Ultimately being cheated on in a relationship means only one thing, that she lost interest in you, and that you didn't want to face this fact early enough.
+
+Anything else that anyone says is irrelevant. That could be you, her or someone else trying to delude you to face away from this truth. If she says anything different than “I lost interest”, realize that this is an attempt by her to not be perceived as a “shallow horrible person”, both by you and maybe by her own self as well. Understand and accept this.
+Why she lost interest is not something I am interested in dissecting right now (you probably have an idea about it if you are honest with yourself). What I do intend to elucidate is, what you need to learn from it. Betrayal is painful, and the closer we felt the betrayer was to us, the more it hurts. Betrayal can also be quite debilitating, at first. "Exactly what in hell just happened to me? Why am I so distraught?". The emotional disturbance and fog it creates, can degrade the quality of experience of life. Even after getting back to being a functional human being, there is a dull ache in the chest for months, sometimes years. All this to tell you that, some preventative measures against it would be nice. 
+
+A poignant realization to arrive at about betrayal is that a lot of it in life just stems from being a good target for it. If I intended on deceiving someone, I would look for someone who:
+- Doesn’t try to suspect
+- Doesn’t ask too many questions
+- Doesn’t think too far ahead
+- Is easily convinced
+- Is open to giving up resources and control easily
+- Doesn’t think people are bad, high trust
+
+These are all great qualities to look for while trying to find a target. But **most importantly** if I were searching for someone to deceive, _I would look for someone who doesn’t think they can be deceived, or someone who doesn’t think I could possibly want to or can deceive them._
+
+One common phenomenon about such people is that they don’t have an active relationship with their **Gut Instinct**. What is Gut Instinct? Well, it's a weird feeling in your guts, in the middle of your stomach which becomes active when something feels off, indigestible, **doesn't feel right**, something that one cannot agree with. It may come up with a "yuck" sound as well with varying degrees of audibility as per the decorum and social setting. You will feel it if I ask you to eat a two-month-old, wet, soggy and moldy slice of bread (unless you have kink for it or something. If you do, you shouldn't. "Yuck").
+
+And losing touch with your gut instinct is quite easy if it is not defended against actively, because it happens slowly. As Gut Instinct becomes active only when one encounters something that they don't agree with, when you are in such a situation, if you don't at the very least acknowledge the fact that you don't agree with something, you start losing touch with your gut instinct. When you override the drive/instinct to at least acknowledge what's right and what's wrong. When one refuses to acknowledge something feels fishy, suspicious, doesn't seem right. 
+
+A fine question to ask would be "Why the hell would anyone override their own Gut Instinct? Their own sense of judgement? Why would anyone of right mind forego what they think is right or wrong?". The answer is in the question itself. The person who overrides their own Gut Instinct and goes along with something they don't agree with, because they are not of right mind. Their mind is under-the-influence. Under the influence of what you may ask?
+
+### The mind is under the influence of a very strong desire to **avoid pain**.
+
+And often that desire is dressed up into a desire to uphold lofty morals, or into the desire to look at the situation from a lofty perspective as reality, which if examined objectively won't uphold. One wants to hold on to a false narrative, one which will keep their mind from confronting and accepting the change of situation. A desire to hold onto a false narrative, in which things are going as per _how one planned them to go_. "Nothing changed, everything's fine so there is nothing to see here."
+
+If you are 
+
+{Idea of Man as a judge. A Man is his own judge. A judge who is influenced easily is no judge at all, no man at all.}
+
+{Acknowledging the Fear of conflict. Fear of conflict with people who you care about is different that fear of conflict with the world outside. About how your world relies will rely on you having a strong sense of judgement and  }
+
+It starts when you start compromising. It starts when you rationalize (and/or let your woman rationalize) away the slump in your gut you feel when she asks/requests/says/suggests something {referred to as bullshit from now on} that you are not comfortable with. Bullshit such as:
+"I am going out with my friends for drinks tonight."
+[I want attention that isn't yours]
+"He just reached out to me and we were planning to have lunch."
+[Tingles]
+"He is just a friend now, it was a very long time ago."
+"No I cannot cut him off, he's been my friend for so long."
+[You are not valuable enough for me to let go of my other options]
+"ABC-slut asked me to accompany her at the bar (so that she can find someone to rail her)"
+[My slut friend allows me to be a slut as well]
+
+Compromise happens when she says shit like this and you like "a good equal-partner, a caring husband" ignore the spike in anxiety that happens when you hear it. When you let her get her way because that's what "trusting partners" do. That's your inner faggot covering up his faggotry. She will tell you things to get you to agree with her. You will agree to it and you'll tell yourself (gaslight yourself) that you don't want to:
+1. Come across as lacking trust.
+2. Come across as a controlling partner.
+3. Come across as mate-guarding, which is a low value behavior.
+
+Also, you may be inclined to believe that as the relationship becomes more serious, she will stop with her bullshit as well (self-justification for her bullshit behavior).
+
+In reality you are covering up for one simple truth:
+You don't have the balls to disagree with her, because you don't want to make her mad, because you don't want to risk her leaving you.
+
+If her saying or suggesting something makes you uncomfortable, realize that you don't trust her on whatever it is that she is saying. Your gut and instincts have responded to the smell of bullshit. At that point, if you rationalize it away (and/or let her rationalize it away for you), and then agree to her proceeding with whatever it was that induced that discomfort, that is when you compromise with yourself. And with this small act of trying to accommodate this induced anxiety and nervousness begins the process of  “dying by a thousand cuts”
+
+When your woman brings up shit like this, there are two things at play. Firstly, it is a shit-test. Can you tell her no? Risk her leaving you because of it? Are you willing to let her go if she doesn't agree with your vision for your lives? Do you have belief in your abundance that you can dump her ass and replace her if she doesn't respect your boundaries? Can you hold your frame and call her out on her bullshit?
+Secondly, you can gauge her investment levels by the audacity of the bullshit she brought up, and how self-assured she seems about doing it. She wouldn’t risk a high-value relationship to even consider doing whatever bullshit it is that made you uncomfortable. So, you are not high value enough for her to self-regulate. You are not her everything yet. Adjust your own investment levels accordingly.
+
+Whatever  may be the case, what you should do is lay down your boundary without DEERing. The fewer the words, the better. Tell her that this is not what you want in your relationship. Go the broken-record route, fogging, or any other method for laying down your boundary in non-bitchy manner. Whatever works:
+"I don't stay in relationships where these things happen." 
+"I don't like it." 
+
+Then she can either:
+Realize that she doesn't want to lose you over bullshit, she gains respect for you for holding your ground and for not compromising. She trusts you more, she trusts you with being able to hold your own, and she trusts you to be able to handle her when she is being unreasonable, and she grows more comfortable with being more feminine with you. 
+Or she can disagree with you, you remove her from your life and she can then continue with whatever bullshit it was that she brought up. You continue working on your MAP and replace her.
+(I don't suggest you faggots to demote her to plate status as your bitch brain will just use it as a work-around way to stay invested in her, as her compromising faggot; telling yourself she is just a plate. A man who can truly demote such a woman to plate when she does some shit he doesn't agree with, doesn't need to be told about boundaries.)
+
+In both of above mentioned outcomes, you get to keep your integrity and sanity. You don't feel the slump in your gut from the slight (or major, depending on how much of a Oneitis you have) spike in anxiety and discomfort anymore and life goes on. You are not an anxious mess torturing yourself wondering what she is doing out there, and neither are you gas-lighting yourself into complacency and naivety, where she'll eventually cheat on you and then leave you for being a Beta faggot who tolerates bullshit. In both of the above mentioned outcomes, she respects you, you respect yourself and you continue working on your life.
+
+Delving more into what happens when you don't enforce boundaries with action. What happens when you turn a blind-eye to her bullshit? Or when you don't follow up your expression of boundary and discontent with action by leaving her? What happens you do compromise? 
+Well, that anxiety you felt when she said that anxiety-inducing shit hasn't gone anywhere. It is now within you, and it will build up. Whether or not you choose to acknowledge it, it stays there. It causes a constant sense of unease within you. You will be constantly concerned with what she is doing, and you will become clingy. You will start doubting your decisions, your perspective, your judgement. And why wouldn't you? You just proved to yourself that you don't value your judgement, that you don't trust what your mind, instincts and body is telling you. You essentially lose respect for your own self. You start to delegate to your wife for judgement over matters of life. You start to overlook and justify her cheating behavior because you have proved to yourself she is the better judge over matters, and that you look to her for leadership. 
+
+Again, as the anxiety and discomfort you feel is not gone, you are bothered by it. You continue to feel bad about her behavior. So what you then conclude consciously or sub-consciously is that if you just make her happy enough, if you just be a good-boy who listens to her and does good things for her, she will also feel indebted to you and then will stop with her bullshit. Thus begins the loop of validation seeking behavior and covert contracts.
+
+You will also start to develop resentment, which will slip out in subtle or sometimes not-so-subtle ways. Snarky remarks, bitching about the people you don't like to her, trying to mate-guard (note the usage of the word "trying") like a bitch. In moments when things might actually be good between you and her, you will try to bring up your discontentment with her bullshit behavior because your bitch-ass couldn't do it properly by establishing boundaries, and in your moments of "happy-times" you will try to leverage her good mood to get her to agree with you. Like a child tries to talk to his/her parents to get them a toy when the parents seem to be in a good mood. 
+She will look upon this all of with disgust, lose any semblance of respect for you and will start the process of nexting you. She will become more and more indifferent to your desires and your existence as a being. Because of which you will start to double down on your faggot behaviors with covert contracts and more validation seeking. Welcome to faggot-land. You will essentially lose the core of what being a man is, for a man is his own judge.
+
+What happens after you turn into a faggot and process of how to un-faggoting yourself has been thoroughly discussed, and doesn't require my description.
+
+
+She did not get wet, nor did she love this faggot version of you. And whenever you compromise, you begin to turn into a faggot. You essentially kill the confident, strong-willed version of you, and become a clingy piece of shit who can't respect himself enough to not tolerate bullshit.
+Both the outcomes where you:
+Acknowledge and trust your instincts and judgement
+Express your discontent and then act on your boundaries 
+Are much better than being turned into a husk of a man. If she is not invested enough in the relationship to keep away from bullshit, then tolerating it will do nothing more than give her a comfortable launching pad for her to next you, often in the most ruthless ways possible. If she doesn't respect your boundaries, then the relationship will end. Either you will preserve your dignity and will next her, or become a shittier version of yourself and then she will leave you.
+
+Never compromise men. Whenever you start feeling uneasy with her behavior, just know you are tolerating something you shouldn't. 
+
+"If it looks like she is not invested, sounds like she is not invested, and acts like she is not invested, then she probably is not invested."
+
 
 
 `});function sr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`

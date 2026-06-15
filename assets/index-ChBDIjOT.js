@@ -22,12 +22,17 @@ Yaar Sudarshan Kriya karna kaafi boring hai lekin kriya karke lagta bahot achcha
 date: Jun 11, 2026
 ---
 
-Pure patience is not for the fearful.
+Pure patience is not for the *fearful*.
 `,"../content/thoughts/thought-4.md":`---
 date: Jun 12, 2026
 ---
 
-Pure patience is not for the desperate.
+Pure patience is not for the *desperate*.
+`,"../content/thoughts/thought-5.md":`---
+date: Jun 15, 2026
+---
+
+I am a Doodhpaglu.
 `});function nr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var rr=Object.entries(tr).map(([e,t])=>{let{data:n,content:r}=nr(t);return{slug:e.split(`/`).pop().replace(`.md`,``),date:n.date||``,body:r,draft:n.draft===`true`}}).filter(e=>!e.draft).sort((e,t)=>new Date(t.date)-new Date(e.date));function ir(e){return{__html:window.marked.parseInline(e)}}function ar(){let e=ft(),{slug:t}=mt(),n=t?rr.find(e=>e.slug===t):null;return(0,x.useEffect)(()=>{t&&!n&&e(`/thoughts`,{replace:!0})},[t,n,e]),n?(0,j.jsxs)(`section`,{className:`section active`,id:`thoughts`,children:[(0,j.jsx)(`button`,{className:`back-btn`,onClick:()=>e(`/thoughts`),children:`← All thoughts`}),(0,j.jsxs)(`div`,{className:`thought`,children:[(0,j.jsx)(`div`,{className:`thought-date`,children:n.date}),(0,j.jsx)(`div`,{className:`thought-body`,dangerouslySetInnerHTML:ir(n.body)})]})]}):(0,j.jsxs)(`section`,{className:`section active`,id:`thoughts`,children:[(0,j.jsx)(`h2`,{className:`section-heading`,children:`Short bursts`}),(0,j.jsx)(`p`,{className:`section-sub`,children:`Quips and Things on my mind. Mostly Unfiltered. Except things that could land me in jail because going to jail probably kinda sucks.`}),(0,j.jsx)(`div`,{id:`thoughts-list`,children:rr.map(t=>{let n=()=>e(`/thoughts/${encodeURIComponent(t.slug)}`);return(0,j.jsxs)(`div`,{className:`thought thought-clickable`,role:`link`,tabIndex:0,title:`Open this thought`,onClick:e=>{e.target.closest(`a`)||n()},onKeyDown:e=>{(e.key===`Enter`||e.key===` `)&&(e.preventDefault(),n())},children:[(0,j.jsx)(`div`,{className:`thought-date`,children:t.date}),(0,j.jsx)(`div`,{className:`thought-body`,dangerouslySetInnerHTML:ir(t.body)})]},t.slug)})})]})}var or=Object.assign({"../content/posts/Dualities.md":`---
 title: Stuck Between the Two?
@@ -686,7 +691,7 @@ excerpt: Would you eat soggy-moldy bread just to make them happy?
 
 
 
-I write after having been struck a little in life. I got cheated on. I didn’t get what I wanted, I was feeling dejected (or feel rejected to be honest). The form that this feeling took, was dark and soul-deadening. But once the waves of emotional turmoil tone down a bit, my mind was forced to think:
+I write after having been struck a little in life. I got cheated on. I didn’t get what I wanted, I was feeling dejected (or feel rejected to be honest). The form that this feeling took, was dark and soul-deadening. But once the waves of emotional turmoil toned down a bit, my mind was forced to think:
 
 ### “What in good God’s name (Shri Vishnu Bhagwaan ji) just happened? What part did I have in it? And how do I avoid this in future?”
 
@@ -702,22 +707,29 @@ A poignant realization to arrive at about betrayal is that a lot of it in life j
 - Doesn’t ask too many questions
 - Doesn’t think too far ahead
 - Is easily convinced
-- Is open to giving up resources and control easily
+- Is open to giving up control easily
 - Doesn’t think people are bad, high trust
 
-These are all great qualities to look for while trying to find a target. But **most importantly** if I were searching for someone to deceive, _I would look for someone who doesn’t think they can be deceived, or someone who doesn’t think I could possibly want to or can deceive them._
+These are all great qualities to look for while trying to find a target. But **most importantly** if I were searching for someone to deceive, _I would look for someone who doesn’t think they can be deceived, and who doesn’t even think that I could possibly want to or can deceive them._ I will come back to this later.
 
-One common phenomenon about such people is that they don’t have an active relationship with their **Gut Instinct**. What is Gut Instinct? Well, it's a weird feeling in your guts, in the middle of your stomach which becomes active when something feels off, indigestible, **doesn't feel right**, something that one cannot agree with. It may come up with a "yuck" sound as well with varying degrees of audibility as per the decorum and social setting. You will feel it if I ask you to eat a two-month-old, wet, soggy and moldy slice of bread (unless you have kink for it or something. If you do, you shouldn't. "Yuck").
+One common phenomenon about such people is that they don’t have an active relationship with their **Gut Instinct**. What is Gut Instinct? Well, it's a weird feeling in your guts, in the middle of your stomach which becomes active when something feels off, indigestible, **doesn't feel right**, something that one cannot agree with. It may come up with a "yuck" sound as well with varying degrees of audibility as per the decorum and social setting (it may also involve a subtle contraction of the sphincter ani muscles). You will feel it if I ask you to eat a two-month-old, wet, soggy and moldy slice of bread (unless you have kink for it or something. If you do, you shouldn't. "Yuck").
 
-And losing touch with your gut instinct is quite easy if it is not defended against actively, because it happens slowly. As Gut Instinct becomes active only when one encounters something that they don't agree with, when you are in such a situation, if you don't at the very least acknowledge the fact that you don't agree with something, you start losing touch with your gut instinct. When you override the drive/instinct to at least acknowledge what's right and what's wrong. When one refuses to acknowledge something feels fishy, suspicious, doesn't seem right. 
+And losing touch with your gut instinct is quite easy if it is not defended against actively, because it happens slowly. You lose touch with your gut instinct when you begin ignoring it. If you don't at the very least acknowledge the fact that you don't agree with something, you start losing touch with your gut instinct. When you override the drive/instinct to at least acknowledge what's right and what's wrong. When one refuses to acknowledge something feels fishy, suspicious, doesn't seem right. You do it enough times and you lose touch with your Gut Instinct. It is kinda like the reverse of how one picks up smoking. The first few times, it feels like a very new activity with a slight feeling of doing something wrong, then eventually it becomes second nature. You ignore the Gut Instinct a few times and you notice, eventually it stops being noticeable. It just transforms into a dull but subtle ball of anxiety in your heart.
 
-A fine question to ask would be "Why the hell would anyone override their own Gut Instinct? Their own sense of judgement? Why would anyone of right mind forego what they think is right or wrong?". The answer is in the question itself. The person who overrides their own Gut Instinct and goes along with something they don't agree with, because they are not of right mind. Their mind is under-the-influence. Under the influence of what you may ask?
+A fine question to ask would be "Why the hell would anyone override their own Gut Instinct? Their own sense of judgement? Why would anyone of right mind forego what they think is right or wrong?". The answer is in the question itself. The person overrides their own Gut Instinct and goes along with something they don't agree with, because *they are not of right mind*. Their mind is under-the-influence. Under-the-influence of what you may ask?
 
 ### The mind is under the influence of a very strong desire to **avoid pain**.
 
-And often that desire is dressed up into a desire to uphold lofty morals, or into the desire to look at the situation from a lofty perspective as reality, which if examined objectively won't uphold. One wants to hold on to a false narrative, one which will keep their mind from confronting and accepting the change of situation. A desire to hold onto a false narrative, in which things are going as per _how one planned them to go_. "Nothing changed, everything's fine so there is nothing to see here."
+Following along, you may ask "what pain are you talking about?".
 
-If you are 
+**The Pain of Death**. Or more specifically, the Pain of Change. If you have based and built your identity, your concept of future, your plans, your road-map, your metric of progress, **your life** around a very specific thing staying a very specific way; and if that specific thing starts to change into not being that specific way anymore, you will have to face the pain of accepting that your plans, your future, **your identity around that specific thing has to die**. All of it has to die. And confronting reality, even just to assess it, requires one to entertain the possibility that things might have changed and might not be as they wanted them to be. They might either have to be changed, or let go of. But if that possibility involves death of who one thinks they are and how one thinks their life will go, entertaining that possibility becomes impossible. Even considering that possibility seems unthinkable.
+
+This Avoidance of Pain of Death/Change manifests in your actions in a simple way, **compromises**.
+
+And often that desire is dressed up into a desire to uphold lofty morals, or into the desire to look at reality from a lofty perspective, which if examined objectively won't uphold. One wants to hold on to a false narrative, one which will keep their mind from confronting and accepting any change of situation. A desire to hold onto a false narrative, in which things are going as per _how one planned them to go_. "Nothing changed, everything's fine so there is nothing to see here." Denial, in its purest form.
+
+
+
 
 {Idea of Man as a judge. A Man is his own judge. A judge who is influenced easily is no judge at all, no man at all.}
 

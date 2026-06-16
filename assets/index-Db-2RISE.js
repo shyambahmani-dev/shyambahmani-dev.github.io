@@ -593,7 +593,7 @@ I would say that I am a pretty good communicator. I usually rely on being a grea
 `,"../content/posts/the-slow-poison-called-compromise.md":`---
 title: The slow poison of Compromise
 date: Jun 16, 2026
-draft: false
+draft: true
 excerpt: Would you eat soggy-moldy bread just to make them happy?
 ---
 

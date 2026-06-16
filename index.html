@@ -10,6 +10,22 @@
          broadcast — reachable by anyone with the link, but not indexed/listed. -->
     <meta name="robots" content="noindex, nofollow" />
 
+    <!-- Link previews: how the site looks when the link is pasted into
+         WhatsApp / Discord / iMessage / Slack etc. (noindex above is unaffected —
+         these only control the unfurled card, not search visibility).
+         Note: hash routes (/#/blog/...) can't have per-post cards on a static
+         host — unfurlers ignore the #fragment — so this is a single site-wide card. -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Shyam Bahmani" />
+    <meta property="og:title" content="Shyam Bahmani" />
+    <meta property="og:description" content="Thoughts, long reads, and the occasional rant by Shyam Bahmani." />
+    <meta property="og:url" content="https://shyambahmani-dev.github.io/" />
+    <!-- To add an image card: drop a 1200×630 PNG at public/og.png, then uncomment:
+    <meta property="og:image" content="https://shyambahmani-dev.github.io/og.png" /> -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Shyam Bahmani" />
+    <meta name="twitter:description" content="Thoughts, long reads, and the occasional rant by Shyam Bahmani." />
+
     <!-- Fonts: Fraunces (display serif) + Inter Tight (body) + JetBrains Mono (labels) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,8 +33,8 @@
 
     <!-- Markdown parser (used by Thoughts and Blog pages) -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script type="module" crossorigin src="/assets/index-ChBDIjOT.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-CLL3W-RK.css">
+    <script type="module" crossorigin src="/assets/index-BBkngdvE.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-Cn2nDHgg.css">
   </head>
   <body>
     <div id="root"></div>

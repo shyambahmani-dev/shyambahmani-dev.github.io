@@ -52,98 +52,6 @@ Be it being politically Left vs Right, Deontology vs Utilitarianism, Liberalism 
 One either supports gender identities or hates them.
 
 
-`,"../content/posts/I have been in this dilemma.md":`---
-title: Compromise
-date: Jun 12, 2026
-draft: true
-excerpt: What do I do?
----
-
-
-I have been in this dilemma and I do find a lack of content regarding it, I wrote a piece about it recently and here is a gist of it.
-
-If her statements or actions induce the discomfort of jealousy within, then it simply means that something must change. Either her behavior or your investment levels. You must not ignore or try to rationalize away the feeling of jealousy. If you do, that is where "betaization" begins (I'll explain the nuances later).
-
-I have found it to be the case that mate guarding is unattractive only if you do it in a bitchy, "pweez mommy" manner. Sometimes you just have to put a her on the line, because sometimes women want to be put in line. It can be a subliminal shit test on her part, trying to see if you can challenge her and confidently enforce your claim over her without getting your fee-fees hurt. So use concepts from WISNIFG and simply state boundaries as:
-
-"I don't like it"
-
-"I don't stay in relationships where this thing happens."
-
-"I can't take you seriously if you do these things."
-
-You state them without DEERing (without defending, explaining, excusing or rationalizing). Go the broken record route or use fogging, whatever it is that you do without being a bitch.
-
-If she decides to continue with her impropriety, then you must leave. And it's a good thing, you got rid of a girl who wasn't as invested as you were. If you state these boundaries, and she continues with her impropriety and you don't leave her, congrats, you proved to her that you are bitch and now she actively is looking to switch boats (how that affects you personally, I'll come to that later when I explain betaization)
-
-If she decides to stay and follow your boundaries, then she will gain respect for you, given that you didn't put her in a hostile situation, but rather had her go through a simple decision making process, where she is free to do what she wants. Don't make her feel like a bad person for not choosing you, simply be relaxed. You should be happy that you got rid of her without going through the pain of betrayal or cheating.
-
-Coming to betaization, it will occur if you either rationalize away the feeling jealousy and don't state your boundary, or if you state your boundary, she continues with the impropriety and you still decide to not leave her. What we have to understand about jealousy is that it is an instinct, that we as men developed as response to risk of loss of paternity. Respect it, it is instinctual, thus doesn't need any rational argument, if you feel it then that's reason enough for you to tell her to stop. The effect of perception of impropriety, and actual impropriety is the same. And the effect of digesting or rationalizing it away in our heads is also the same. Explained in follow-up comment.
-5
-u/BigBoiTFB avatar
-BigBoiTFB
-•
-2y ago
-
-The anxiety you feel when you experience jealousy, doesn't go away when you try to rationalize it or digest it. It stays within you, and it will build up. Whether or not you choose to acknowledge it, it stays there. And like a disease it will spread, with the following symptoms:
-
-1.      A constant sense of unease and botheration. Constant concern about the health of your relationship, and doubts on whether she loves you or not. Suspicions about her developing desire for someone else.
-
-2.      You will constantly be concerned with what she is doing, because of which you will become clingy. You start to desire and hold onto her attention and presence as much as you can, becoming needy and over-bearing (instead of the other way around).
-
-3.      You will start doubting your decisions, your perspective and your judgement. And why wouldn't you? You just proved to yourself that you don't value your judgement, that you don't trust what your mind, instincts and body tell you. You essentially lose respect for your own self. Moreover, you start to ask your wife for judgement over matters of life, and will start seeking validation and appreciation from her. And with that the series of covert contracts unfold.
-
-These are all essentially unattractive qualities that you will manifest in yourself, and they will slowly grow over you.
-
-As you continue to manifest these behaviors, you also start to overlook and justify her implied or realized cheating behavior because you want to prove your love right, and have as you have demonstrated to yourself that she is the better judge over matters, and that you look to her for leadership; you begin to ignore what your own senses tell you.
-
-As the anxiety and discomfort builds up, you will be bothered by it, whether or not you acknowledge it. It will affect your behavior, and the stability and firmness of your resolve. You continue to feel bad about her behavior. Then, you conclude consciously or sub-consciously that if you just make her happy enough, if you just be a good-boy who listens to her and does good things for her, then she will feel indebted to you and will stop with her impropriety. If you just make her fall more in love with you, she will stop. This makes you double down on validation seeking behaviors and covert contracts.
-
-You will also start to develop resentment, which will slip out in subtle as well as very overt ways. Snarky remarks, bitching about the people you don't like to her, overtly asking or subtly insinuating questions like why does she do this, what makes her want to do this, what does she get out of it, trying to mate-guard (note the usage of the word "trying") like a bitch. In moments when things might actually be good between you and her, you will try to bring up your discontentment with her bullshit behavior because your bitch-ass couldn't do it properly by establishing boundaries during the heated moments, and thus in your moments of "happy-times" you will try to leverage her good mood to get her to agree with you. Like a child tries to talk to his/her parents to get them a toy when the parents seem to be in a good mood. (Follow up in next comment)
-4
-u/BigBoiTFB avatar
-BigBoiTFB
-•
-2y ago
-
-You will essentially lose the core of what being a man is, for a man is his own judge. You turn into a quintessential faggot.
-
-What one has to understand is that she did not get wet, nor did she love this faggot version of you. And whenever you compromise, you begin to turn into aforementioned faggot. You essentially kill the confident, strong-willed version of you, and become a clingy piece of shit who can't respect himself enough to not tolerate bullshit. She will internally detest this version of you, and trample on you and the relationship completely.
-
-Therefore, both the outcomes where you:
-
-    Acknowledge and trust your instincts and judgement
-
-    Express your discontent and then act on your boundaries
-
-Are much better than being turned into a husk of a man. If she is not invested enough in the relationship to keep away from bullshit, then tolerating it will do nothing more than turn you into a trampoline to give her a comfortable launching pad for her to next you, often in the most ruthless ways possible.
-
- 
-
-So, if she doesn't respect your boundaries, understand thoroughly that the relationship will end. Either:
-
-a.       You preserve your dignity and manhood, and next her.
-
-or
-
-b.      Turn into a shittier version of yourself and then she will leave you.
-
- 
-
-In the world that you share with her, and have a vision for, there must be no space for discomfort from outside forces. If the world you create, live in and share with her; cannot function without making you uncomfortable, then burn it. Let it go. Let it go before it deteriorates and burns you.
-
- 
-
-Some people will critique “But what about trust?” To them I say this, that trust does not mean tolerating discomfort and trying to digest anxiety. It means knowing she will not cross your boundaries when she is unseen and that she will not hide things from you if she does. Trust means that you won't have to track her, that you won't have to interrogate her. Trust is not about tolerating bullshit, and then having to deal with the resulting anxiety.
-
- 
-
-Therefore, never compromise men. Whenever you start feeling uneasy with her behavior, just know you are tolerating something you shouldn't.
-
- 
-
-"If it looks like she is not invested, sounds like she is not invested, and acts like she is not invested, then she probably is not invested."
-
 `,"../content/posts/My Collection of Quotes.md":`---
 title: My Collection of Quotes
 date: Jun 11, 2026
@@ -684,7 +592,7 @@ I would say that I am a pretty good communicator. I usually rely on being a grea
 
 `,"../content/posts/the-slow-poison-called-compromise.md":`---
 title: The slow poison of Compromise
-date: Jun 14, 2026
+date: Jun 16, 2026
 draft: false
 excerpt: Would you eat soggy-moldy bread just to make them happy?
 ---
@@ -809,4 +717,4 @@ Never compromise. If you're feeling uneasy with their behavior or statements, ju
 
 
 `});function lr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
-`).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var ur=Object.entries(cr).map(([e,t])=>{let{data:n,content:r}=lr(t),i=e.split(`/`).pop().replace(`.md`,``),a=r.trim().split(/\s+/).filter(Boolean).length,o=n.readTime||`${Math.max(1,Math.round(a/200))} min read`;return{slug:i,title:n.title||``,date:n.date||``,readTime:o,excerpt:n.excerpt||``,draft:n.draft===`true`,content:r}}).filter(e=>!e.draft).sort((e,t)=>new Date(t.date)-new Date(e.date));function dr({onOpen:e}){let[t,n]=(0,x.useState)(``),r=t.trim().toLowerCase(),i=r?ur.filter(e=>`${e.title} ${e.excerpt} ${e.content}`.toLowerCase().includes(r)):ur;return(0,j.jsxs)(`div`,{id:`blog-list-view`,children:[(0,j.jsx)(`h2`,{className:`section-heading`,children:`Long reads`}),(0,j.jsx)(`p`,{className:`section-sub`,children:`When the thought needs more than 280 characters.`}),(0,j.jsx)(ar,{value:t,onChange:n,placeholder:`Search posts…`}),i.length===0?(0,j.jsxs)(`p`,{className:`search-empty`,children:[`No posts match “`,t,`”.`]}):(0,j.jsx)(`div`,{className:`blog-list`,children:i.map(t=>(0,j.jsxs)(`button`,{className:`blog-item`,onClick:()=>e(t.slug),children:[(0,j.jsxs)(`div`,{className:`blog-item-meta`,children:[(0,j.jsx)(`span`,{children:t.date}),(0,j.jsx)(`span`,{children:t.readTime})]}),(0,j.jsx)(`div`,{className:`blog-item-title`,children:t.title}),(0,j.jsx)(`div`,{className:`blog-item-excerpt`,children:t.excerpt})]},t.slug))})]})}function fr({post:e,onBack:t,onOpen:n}){(0,x.useEffect)(()=>{window.scrollTo({top:0,behavior:`smooth`})},[e.slug]);let r=ur.findIndex(t=>t.slug===e.slug),i=r>0?ur[r-1]:null,a=r<ur.length-1?ur[r+1]:null;return(0,j.jsxs)(`div`,{id:`blog-post-view`,className:`blog-post`,children:[(0,j.jsx)(`button`,{className:`back-btn`,onClick:t,children:`← All posts`}),(0,j.jsxs)(`div`,{className:`post-meta`,children:[e.date,` · `,e.readTime]}),(0,j.jsx)(`h1`,{className:`post-title`,children:e.title}),(0,j.jsx)(`div`,{className:`post-content`,dangerouslySetInnerHTML:{__html:window.marked.parse(e.content)}}),(i||a)&&(0,j.jsxs)(`nav`,{className:`post-nav`,"aria-label":`More posts`,children:[i?(0,j.jsxs)(`button`,{className:`post-nav-link`,onClick:()=>n(i.slug),children:[(0,j.jsx)(`span`,{className:`post-nav-dir`,children:`← Newer`}),(0,j.jsx)(`span`,{className:`post-nav-title`,children:i.title})]}):(0,j.jsx)(`span`,{}),a?(0,j.jsxs)(`button`,{className:`post-nav-link next`,onClick:()=>n(a.slug),children:[(0,j.jsx)(`span`,{className:`post-nav-dir`,children:`Older →`}),(0,j.jsx)(`span`,{className:`post-nav-title`,children:a.title})]}):(0,j.jsx)(`span`,{})]})]})}function pr(){let e=ft(),{slug:t}=mt(),n=t?ur.find(e=>e.slug===t):null,r=t=>e(`/blog/${encodeURIComponent(t)}`);return(0,x.useEffect)(()=>{t&&!n&&e(`/blog`,{replace:!0})},[t,n,e]),(0,j.jsx)(`section`,{className:`section active`,id:`blog`,children:n?(0,j.jsx)(fr,{post:n,onBack:()=>e(`/blog`),onOpen:r}):(0,j.jsx)(dr,{onOpen:r})})}function mr(){return(0,j.jsxs)(`section`,{className:`section active`,id:`about`,children:[(0,j.jsx)(`h2`,{className:`section-heading`,children:`The Guy Talking`}),(0,j.jsx)(`p`,{className:`section-sub`,children:`Morelike Loosely speaking.`}),(0,j.jsxs)(`div`,{className:`about-text`,children:[(0,j.jsxs)(`p`,{children:[`Hey — I'm `,(0,j.jsx)(`span`,{className:`accent`,children:`Shyam Bahmani`}),`. This is my corner of the internet where I dump thoughts, half-finished ideas, and the occasional long rant.`]}),(0,j.jsx)(`p`,{children:`Just my words on a page.`}),(0,j.jsxs)(`p`,{children:[`If something here resonates with you, that's `,(0,j.jsx)(`span`,{className:`accent`,children:`incredibly, fascinatingly cool!.`}),` `,(0,j.jsx)(`br`,{}),`If not, that's also cool! Although slightly less so.`]}),(0,j.jsxs)(`p`,{children:[`You can reach out to me on my Instagram by clicking that button below, or e-mail me at shyambahmani@gmail.com `,(0,j.jsx)(`br`,{}),(0,j.jsx)(`br`,{}),`One has to mention that its e-mail and not actual mail because actual mail would require a geographic location but I can't give that out as I am in hiding. Its reasonable to assume that I may be wanted on false charges. Sometimes doesn't one feel "Man will they find out about me one day?". `,(0,j.jsx)(`br`,{}),(0,j.jsx)(`br`,{}),`Although sending and recieveing an actual mail is also freaking cool. I wonder who the hell is using emails to communicate outside of corporate. `]}),(0,j.jsx)(`p`,{children:`Anyhoot, Take Care! Have fun!`}),(0,j.jsx)(`div`,{className:`links`,children:(0,j.jsx)(`a`,{href:`https://www.instagram.com/shyambahmani/?hl=en`,target:`_blank`,rel:`noopener`,children:`Instagram`})})]})]})}function hr(){return(0,j.jsxs)(`div`,{className:`wrap`,children:[(0,j.jsxs)(`header`,{children:[(0,j.jsx)(Zn,{}),(0,j.jsxs)(`h1`,{className:`site-title`,children:[`Shyam`,(0,j.jsx)(`br`,{}),(0,j.jsx)(`span`,{className:`accent`,children:`Bahmani`})]}),(0,j.jsx)(`p`,{className:`tagline`,children:`Thoughts and long reads. Just me, in words.`})]}),(0,j.jsx)(er,{}),(0,j.jsx)(`main`,{children:(0,j.jsxs)(Bt,{children:[(0,j.jsx)(Rt,{path:`/`,element:(0,j.jsx)(Lt,{to:`/thoughts`,replace:!0})}),(0,j.jsx)(Rt,{path:`/thoughts`,element:(0,j.jsx)(sr,{})}),(0,j.jsx)(Rt,{path:`/thoughts/:slug`,element:(0,j.jsx)(sr,{})}),(0,j.jsx)(Rt,{path:`/blog`,element:(0,j.jsx)(pr,{})}),(0,j.jsx)(Rt,{path:`/blog/:slug`,element:(0,j.jsx)(pr,{})}),(0,j.jsx)(Rt,{path:`/about`,element:(0,j.jsx)(mr,{})}),(0,j.jsx)(Rt,{path:`*`,element:(0,j.jsx)(Lt,{to:`/thoughts`,replace:!0})})]})}),(0,j.jsx)(tr,{})]})}(0,Yn.createRoot)(document.getElementById(`root`)).render((0,j.jsx)(x.StrictMode,{children:(0,j.jsx)(On,{children:(0,j.jsx)(hr,{})})}));
+`).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var ur=Object.entries(cr).map(([e,t])=>{let{data:n,content:r}=lr(t),i=e.split(`/`).pop().replace(`.md`,``),a=r.trim().split(/\s+/).filter(Boolean).length,o=n.readTime||`${Math.max(1,Math.round(a/200))} min read`;return{slug:i,title:n.title||``,date:n.date||``,readTime:o,excerpt:n.excerpt||``,draft:n.draft===`true`,content:r}}).filter(e=>!e.draft).sort((e,t)=>new Date(t.date)-new Date(e.date));function dr({onOpen:e}){let[t,n]=(0,x.useState)(``),r=t.trim().toLowerCase(),i=r?ur.filter(e=>`${e.title} ${e.excerpt} ${e.content}`.toLowerCase().includes(r)):ur;return(0,j.jsxs)(`div`,{id:`blog-list-view`,children:[(0,j.jsx)(`h2`,{className:`section-heading`,children:`Long reads`}),(0,j.jsx)(`p`,{className:`section-sub`,children:`When the thought needs more than 280 characters.`}),(0,j.jsx)(ar,{value:t,onChange:n,placeholder:`Search posts…`}),i.length===0?(0,j.jsxs)(`p`,{className:`search-empty`,children:[`No posts match “`,t,`”.`]}):(0,j.jsx)(`div`,{className:`blog-list`,children:i.map(t=>(0,j.jsxs)(`button`,{className:`blog-item`,onClick:()=>e(t.slug),children:[(0,j.jsxs)(`div`,{className:`blog-item-meta`,children:[(0,j.jsx)(`span`,{children:t.date}),(0,j.jsx)(`span`,{children:t.readTime})]}),(0,j.jsx)(`div`,{className:`blog-item-title`,children:t.title}),(0,j.jsx)(`div`,{className:`blog-item-excerpt`,children:t.excerpt})]},t.slug))})]})}function fr({post:e,onBack:t,onOpen:n}){(0,x.useEffect)(()=>{window.scrollTo({top:0,behavior:`smooth`})},[e.slug]);let r=ur.findIndex(t=>t.slug===e.slug),i=r>0?ur[r-1]:null,a=r<ur.length-1?ur[r+1]:null;return(0,j.jsxs)(`div`,{id:`blog-post-view`,className:`blog-post`,children:[(0,j.jsx)(`button`,{className:`back-btn`,onClick:t,children:`← All posts`}),(0,j.jsxs)(`div`,{className:`post-meta`,children:[e.date,` · `,e.readTime]}),(0,j.jsx)(`h1`,{className:`post-title`,children:e.title}),(0,j.jsx)(`div`,{className:`post-content`,dangerouslySetInnerHTML:{__html:window.marked.parse(e.content)}}),(i||a)&&(0,j.jsxs)(`nav`,{className:`post-nav`,"aria-label":`More posts`,children:[i?(0,j.jsxs)(`button`,{className:`post-nav-link`,onClick:()=>n(i.slug),children:[(0,j.jsx)(`span`,{className:`post-nav-dir`,children:`← Previous`}),(0,j.jsx)(`span`,{className:`post-nav-title`,children:i.title})]}):(0,j.jsx)(`span`,{}),a?(0,j.jsxs)(`button`,{className:`post-nav-link next`,onClick:()=>n(a.slug),children:[(0,j.jsx)(`span`,{className:`post-nav-dir`,children:`Next →`}),(0,j.jsx)(`span`,{className:`post-nav-title`,children:a.title})]}):(0,j.jsx)(`span`,{})]})]})}function pr(){let e=ft(),{slug:t}=mt(),n=t?ur.find(e=>e.slug===t):null,r=t=>e(`/blog/${encodeURIComponent(t)}`);return(0,x.useEffect)(()=>{t&&!n&&e(`/blog`,{replace:!0})},[t,n,e]),(0,j.jsx)(`section`,{className:`section active`,id:`blog`,children:n?(0,j.jsx)(fr,{post:n,onBack:()=>e(`/blog`),onOpen:r}):(0,j.jsx)(dr,{onOpen:r})})}function mr(){return(0,j.jsxs)(`section`,{className:`section active`,id:`about`,children:[(0,j.jsx)(`h2`,{className:`section-heading`,children:`The Guy Talking`}),(0,j.jsx)(`p`,{className:`section-sub`,children:`Morelike Loosely speaking.`}),(0,j.jsxs)(`div`,{className:`about-text`,children:[(0,j.jsxs)(`p`,{children:[`Hey — I'm `,(0,j.jsx)(`span`,{className:`accent`,children:`Shyam Bahmani`}),`. This is my corner of the internet where I dump thoughts, half-finished ideas, and the occasional long rant.`]}),(0,j.jsx)(`p`,{children:`Just my words on a page.`}),(0,j.jsxs)(`p`,{children:[`If something here resonates with you, that's `,(0,j.jsx)(`span`,{className:`accent`,children:`incredibly, fascinatingly cool!.`}),` `,(0,j.jsx)(`br`,{}),`If not, that's also cool! Although slightly less so.`]}),(0,j.jsxs)(`p`,{children:[`You can reach out to me on my Instagram by clicking that button below, or e-mail me at shyambahmani@gmail.com `,(0,j.jsx)(`br`,{}),(0,j.jsx)(`br`,{}),`One has to mention that its e-mail and not actual mail because actual mail would require a geographic location but I can't give that out as I am in hiding. Its reasonable to assume that I may be wanted on false charges. Sometimes doesn't one feel "Man will they find out about me one day?". `,(0,j.jsx)(`br`,{}),(0,j.jsx)(`br`,{}),`Although sending and recieveing an actual mail is also freaking cool. I wonder who the hell is using emails to communicate outside of corporate. `]}),(0,j.jsx)(`p`,{children:`Anyhoot, Take Care! Have fun!`}),(0,j.jsx)(`div`,{className:`links`,children:(0,j.jsx)(`a`,{href:`https://www.instagram.com/shyambahmani/?hl=en`,target:`_blank`,rel:`noopener`,children:`Instagram`})})]})]})}function hr(){return(0,j.jsxs)(`div`,{className:`wrap`,children:[(0,j.jsxs)(`header`,{children:[(0,j.jsx)(Zn,{}),(0,j.jsxs)(`h1`,{className:`site-title`,children:[`Shyam`,(0,j.jsx)(`br`,{}),(0,j.jsx)(`span`,{className:`accent`,children:`Bahmani`})]}),(0,j.jsx)(`p`,{className:`tagline`,children:`Thoughts and long reads. Just me, in words.`})]}),(0,j.jsx)(er,{}),(0,j.jsx)(`main`,{children:(0,j.jsxs)(Bt,{children:[(0,j.jsx)(Rt,{path:`/`,element:(0,j.jsx)(Lt,{to:`/thoughts`,replace:!0})}),(0,j.jsx)(Rt,{path:`/thoughts`,element:(0,j.jsx)(sr,{})}),(0,j.jsx)(Rt,{path:`/thoughts/:slug`,element:(0,j.jsx)(sr,{})}),(0,j.jsx)(Rt,{path:`/blog`,element:(0,j.jsx)(pr,{})}),(0,j.jsx)(Rt,{path:`/blog/:slug`,element:(0,j.jsx)(pr,{})}),(0,j.jsx)(Rt,{path:`/about`,element:(0,j.jsx)(mr,{})}),(0,j.jsx)(Rt,{path:`*`,element:(0,j.jsx)(Lt,{to:`/thoughts`,replace:!0})})]})}),(0,j.jsx)(tr,{})]})}(0,Yn.createRoot)(document.getElementById(`root`)).render((0,j.jsx)(x.StrictMode,{children:(0,j.jsx)(On,{children:(0,j.jsx)(hr,{})})}));

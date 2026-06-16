@@ -610,7 +610,7 @@ excerpt: Would you eat soggy-moldy bread just to make them happy?
 
 
 
-I wrote his after having been struck a little in life. I got cheated on a long while ago. I didn’t get what I wanted, I was feeling dejected (or feel rejected to be honest). The form that this feeling took, was dark and soul-deadening. But once the waves of emotional turmoil toned down a bit, my mind was forced to think:
+I wrote this after having been struck a little in life. I got cheated on a long while ago. I didn’t get what I wanted, I was feeling dejected (or feel rejected to be honest). The form that this feeling took, was dark and soul-deadening. But once the waves of emotional turmoil toned down a bit, my mind was forced to think:
 
 ### “What in good God’s name (Shri Vishnu Bhagwaan ji) just happened? What part did I have in it? And how do I avoid this in future?”
 
@@ -677,13 +677,13 @@ When your partner brings up things like these, there are two things at play. Fir
 
 Secondly, you can gauge their investment levels by the audacity of the moldy-bread statements that they bring up, and how self-assured they seem about doing it. They wouldn’t risk a high-value relationship to even consider doing whatever moldy-bread activity it is that made you uncomfortable. So, you are not high value enough for them to self-regulate. You are not their 'it'. Adjust your own investment levels accordingly.
 
-Whatever  may be the case, what you should do is lay down your boundary without Defending, Explaining, Excusing or Rationalizing; without DEERing. The fewer the words, the better. Tell them that this is not what you want in your relationship. Go the broken-record route for laying down your boundary in non-whiny manner. No hostile statements. Simply stating exactly these or a version of these without emotions:
+Whatever may be the case, what you should do is lay down your boundary without Defending, Explaining, Excusing or Rationalizing; without DEERing. The fewer the words, the better. Tell them that this is not what you want in your relationship. Go the broken-record route for laying down your boundary in non-whiny manner. No hostile statements. Simply stating exactly these or a version of these without emotions:
 
 "I don't stay in relationships where these kinda things happen." 
 "I don't like it."
 "I don't think I am comfortable with that."
 
-Then they can either realize that they don't want to lose you over moldy-bread activities, they gain respect for you for holding your ground and for not compromising. They trust you more for being able to hold your own, and they trust you to be able to handle them when they are being unreasonable. As a man, if you hold your ground, you will find that your partner grows more comfortable with being more feminine with you. If a man leads in a relationship, the one being led would like to test the conviction of the person they are with. If the person can fold under pressure, who can be swayed from their own sense of right or wrong (even if swayed by the partner themselves) is not someone to be followed. A man is primarily his own judge, and a man who lacks conviction is no man at all. When you hold onto your sense of right or wrong, it demonstrates that your morals and spine is unshakable.
+Then they can either realize that they don't want to lose you over moldy-bread activities, they gain respect for you for holding your ground and for not compromising. They trust you more for being able to hold your own, and they trust you to be able to handle them when they are being unreasonable. As a man, if you hold your ground, you will find that your partner grows more comfortable with being more feminine with you. If a man leads in a relationship, the one being led would like to test the conviction of the person they are with. A person who folds under pressure, who can be swayed from their own sense of right or wrong — even by the partner themselves — is not someone to be followed. A man is primarily his own judge, and a man who lacks conviction is no man at all. When you hold onto your sense of right or wrong, it demonstrates that your morals and spine are unshakable.
 
 Otherwise they can disagree with you, you break away from each other's life completely and they can then continue with whatever moldy-bread activity it was that they brought up. You move on with your lives, with your Gut Instinct and self-respect intact.
 

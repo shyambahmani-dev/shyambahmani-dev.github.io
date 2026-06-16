@@ -610,7 +610,7 @@ excerpt: Would you eat soggy-moldy bread just to make them happy?
 
 
 
-I write after having been struck a little in life. I got cheated on. I didn’t get what I wanted, I was feeling dejected (or feel rejected to be honest). The form that this feeling took, was dark and soul-deadening. But once the waves of emotional turmoil toned down a bit, my mind was forced to think:
+I wrote his after having been struck a little in life. I got cheated on a long while ago. I didn’t get what I wanted, I was feeling dejected (or feel rejected to be honest). The form that this feeling took, was dark and soul-deadening. But once the waves of emotional turmoil toned down a bit, my mind was forced to think:
 
 ### “What in good God’s name (Shri Vishnu Bhagwaan ji) just happened? What part did I have in it? And how do I avoid this in future?”
 

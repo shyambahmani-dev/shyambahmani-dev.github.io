@@ -52,6 +52,17 @@ Be it being politically Left vs Right, Deontology vs Utilitarianism, Liberalism 
 One either supports gender identities or hates them.
 
 
+`,"../content/posts/Ideas.md":`---
+title: Article Ideas
+date: Jun 12, 2026
+draft: true
+excerpt: [Not to be published]
+---
+
+- Idea of Man as a judge. A Man is his own judge. A judge who is influenced easily is no judge at all, no man at all.
+
+- Acknowledging the Fear of conflict. Fear of conflict with people who you care about is different that fear of conflict with the world outside. About how the people in your world will rely on you having a strong sense of judgement and uncompromising sense of what's right and wrong.
+
 `,"../content/posts/My Collection of Quotes.md":`---
 title: My Collection of Quotes
 date: Jun 11, 2026
@@ -593,7 +604,7 @@ I would say that I am a pretty good communicator. I usually rely on being a grea
 `,"../content/posts/the-slow-poison-called-compromise.md":`---
 title: The slow poison of Compromise
 date: Jun 16, 2026
-draft: true
+draft: false
 excerpt: Would you eat soggy-moldy bread just to make them happy?
 ---
 
@@ -605,10 +616,10 @@ I write after having been struck a little in life. I got cheated on. I didn’t 
 
 If you are not there yet, then there is no point reading in what’s ahead. Settle down and get back. If you are running away from these questions, then come back once you are tired of it and can’t help it. Hopefully you didn’t damage yourself or anyone else too much in the process of running away from these questions. 
 
-This article pertains specifically to being cheated on in a relationship, from the perspective of a man (a conventional “**Man<sup>TM</sup>**”). Take from it what you will. Ultimately being cheated on in a relationship means only one thing, that she lost interest in you, and that you didn't want to face this fact early enough.
+This article pertains specifically to being cheated on in a relationship, from the perspective of a man (a conventional “**Man<sup>TM</sup>**”). Take from it what you will. Ultimately being cheated on in a relationship means only one thing, that they lost interest in you, and that you didn't want to face this fact early enough.
 
-Anything else that anyone says is irrelevant. That could be you, her or someone else trying to delude you to face away from this truth. If she says anything different than “I lost interest”, realize that this is an attempt by her to not be perceived as a “shallow horrible person”, both by you and maybe by her own self as well. Understand and accept this.
-Why she lost interest is not something I am interested in dissecting right now (you probably have an idea about it if you are honest with yourself). What I do intend to elucidate is, what you need to learn from it. Betrayal is painful, and the closer we felt the betrayer was to us, the more it hurts. Betrayal can also be quite debilitating, at first. "Exactly what in hell just happened to me? Why am I so distraught?". The emotional disturbance and fog it creates, can degrade the quality of experience of life. Even after getting back to being a functional human being, there is a dull ache in the chest for months, sometimes years. All this to tell you that, some preventative measures against it would be nice. 
+Anything else that anyone says is irrelevant. That could be you, them or someone else trying to delude you to face away from this truth. If they say anything different than “I lost interest”, realize that this is an attempt by them to not be perceived as a “shallow horrible person”, both by you and maybe by their own self as well. Understand and accept this.
+Why they lost interest is not something I am interested in dissecting right now (you probably have an idea about it if you are honest with yourself). What I do intend to elucidate is, what you need to learn from it. Betrayal is painful, and the closer we felt the betrayer was to us, the more it hurts. Betrayal can also be quite debilitating, especially when its new. "Exactly what in hell just happened to me? Why am I so distraught? Why can't I even function or think straight?". The emotional disturbance and fog it creates, can degrade the quality of experience of life. Even after getting back to being a functional human being, there is a dull ache in the chest for months, sometimes years. All this to tell you that, some preventative measures against it would be nice. 
 
 A poignant realization to arrive at about betrayal is that a lot of it in life just stems from being a good target for it. If I intended on deceiving someone, I would look for someone who:
 - Doesn’t try to suspect
@@ -620,7 +631,7 @@ A poignant realization to arrive at about betrayal is that a lot of it in life j
 
 These are all great qualities to look for while trying to find a target. But **most importantly** if I were searching for someone to deceive, _I would look for someone who doesn’t think they can be deceived, and who doesn’t think that I could possibly want to or can deceive them._ If someone has created their identity and future on believing this, they are the easiest targets.
 
-One common phenomenon about such people is that they don’t have an active relationship with their **Gut Instinct**. What is Gut Instinct? Well, it's a weird feeling in your guts, in the middle of your stomach which becomes active when something feels off, indigestible, **when something doesn't feel right**, something that one cannot agree with. It is the first mechanism of discretion, or judgement and analysis in you. You don't have to agree with it always (although if you do you will be right many more times than you'll be wrong), but you have to atleast acknowledge it, and pay some serious mind and attention to whatever it is that is flaring up your Gut Instinct. It may come up with a "yuck" sound as well with varying degrees of audibility as per the decorum and social setting (it may also involve a subtle contraction of the sphincter ani muscles). You will feel it if I ask you to eat a two-month-old, wet, soggy and moldy slice of bread (unless you have kink for it or something. If you do, you shouldn't. "Yuck").
+One common phenomenon about such people is that they don’t have an active relationship with their **Gut Instinct**. What is Gut Instinct? Well, it's a weird feeling in your guts, in the middle of your stomach which becomes active when something feels off, indigestible, **when something doesn't feel right**, something that one cannot agree with. It is the first mechanism of discretion, or judgement and analysis in you. You don't have to agree with it always (although if you do you will be right many more times than you'll be wrong), but you have to at least acknowledge it, and pay some serious mind and attention to whatever it is that is flaring up your Gut Instinct. It may come up with a "yuck" sound as well with varying degrees of audibility as per the decorum and social setting (it may also involve a subtle contraction of the sphincter ani muscles). You will feel it if I ask you to eat a two-month-old, wet, soggy and moldy slice of bread (unless you have a kink for it or something. If you do, you shouldn't. "Yuck").
 
 And losing touch with your gut instinct is quite easy if it is not defended against actively, because it happens slowly. You lose touch with your gut instinct when you begin ignoring it. If you don't at the very least acknowledge the fact that you don't agree with something, you start losing touch with your gut instinct. When you override the drive/instinct to at least acknowledge what's right and what's wrong. When one refuses to acknowledge something feels fishy, suspicious, doesn't seem right. You do it enough times and you lose touch with your Gut Instinct. It is kinda like the reverse of how one picks up smoking. The first few times, it feels like a very new activity with a slight feeling of doing something wrong, then eventually it becomes second nature. You ignore the Gut Instinct for the first few times and you notice, eventually it stops being noticeable. It just transforms into a dull but subtle ball of anxiety in your heart.
 
@@ -633,11 +644,6 @@ Following along, you may ask "what pain are you talking about?".
 **The Pain of Death**. Or more specifically, the Pain of Change. If you have based and built your identity, your concept of future, your plans, your road-map, your metric of progress, **your life** around a very specific thing staying a very specific way; and if that specific thing starts to change into not being that specific way anymore, you will have to face the pain of accepting that your plans, your future, **your identity around that specific thing has to die**. All of it has to die. And confronting reality, even just to assess it, requires one to entertain the possibility that things might have changed and might not be as one wanted them to be. They might either have to be changed, or let go of. But if that possibility involves death of who one thinks they are and how one thinks their life will go, entertaining that possibility becomes impossible. Even considering that possibility seems unthinkable. 
 
 So the mind finds the apt perspective with more than enough justifications to indulge and engulf itself in a false narrative, a narrative which will keep the mind from confronting reality and assessing and accepting any change of situation. But you cannot lie to your Gut Instinct. Gut Instinct will begin to flare up, as it notices things not going right. If you disregard it, it will change you. It will change your behaviors and your actions. As your Gut Instinct is your first mechanism for judgement, if you disregard it enough to lose your touch with it, you also lose your ability and confidence in your sense of judgement. You will feel disoriented, like a person wandering in absolute dark. A subtle (and in extreme cases not so subtle) ball of anxiety takes place in your heart.
-
-{Idea of Man as a judge. A Man is his own judge. A judge who is influenced easily is no judge at all, no man at all.}
-
-{Acknowledging the Fear of conflict. Fear of conflict with people who you care about is different that fear of conflict with the world outside. About how the people in your world will rely on you having a strong sense of judgement and uncompromising sense of what's right and wrong}
-
 
 This is how the mind works. But noticing it in actions is way easier and in the actions itself is how one can see how it practically shows up.
 
@@ -663,9 +669,9 @@ Compromise happens when your partner says statements like this and because you w
 Also, you may be inclined to believe that as the relationship becomes more serious, they will stop trying to feed you such moldy-bread statements later.
 
 
-In reality you are covering up for one simple truth, that you don't have want to disagree with them, because you don't want to have conflict, because you don't want to risk them leaving you and shattering your identity and future plans.
+In reality you are covering up for one simple truth, that you don't want to disagree with them, because you don't want to have conflict, because you don't want to risk them leaving you and shattering your identity and future plans.
 
-If your partner saying or suggesting something makes you uneasy, realize that your Gut Instinct just flared up and that you are not comfortable with whatever it is that they are saying or suggesting. Your gut and instincts have responded to the smell and sight of moldy-bread. At that point, if you rationalize it away (and/or let them rationalize it away for you), and then agree to them proceeding with whatever it was that induced that discomfort, that is when you compromise with yourself. And with this small act of trying to accommodate this induced anxiety and nervousness begins the process of  “dying by a thousand cuts”. You just ate moldy-bread, and your body can only eat so much before you do some major damage to your self.
+If your partner saying or suggesting something makes you uneasy, realize that your Gut Instinct just flared up and that you are not comfortable with whatever it is that they are saying or suggesting. Your gut and instincts have responded to the smell and sight of moldy-bread. At that point, if you rationalize it away (and/or let them rationalize it away for you), and then agree to them proceeding with whatever it was that induced that discomfort, that is when you compromise with yourself. And with this small act of trying to accommodate this induced anxiety and nervousness begins the process of “dying by a thousand cuts”. You just ate moldy-bread, and your body can only eat so much before you do some major damage to your self.
 
 When your partner brings up things like these, there are two things at play. Firstly, it is a test-of-integrity. Can you tell them no? Risk them leaving you because of it? Are you willing to let go of them if they don't agree with your vision for your lives? Do you have belief in yourself and your value and abundance that you can let go of them and move on if they don't respect your boundaries? Can you hold your frame and call them out on their attempts to make you eat moldy bread?
 
@@ -677,9 +683,9 @@ Whatever  may be the case, what you should do is lay down your boundary without 
 "I don't like it."
 "I don't think I am comfortable with that."
 
-Then they can either realize that they don't want to lose you over moldy-bread activities, they gain respect for you for holding your ground and for not compromising. They trust you more for being able to hold your own, and they trust you to be able to handle them when they are being unreasonable. As a man, if you hold your ground, you will find that your partner grows more comfortable with being more feminine with you. 
+Then they can either realize that they don't want to lose you over moldy-bread activities, they gain respect for you for holding your ground and for not compromising. They trust you more for being able to hold your own, and they trust you to be able to handle them when they are being unreasonable. As a man, if you hold your ground, you will find that your partner grows more comfortable with being more feminine with you. If a man leads in a relationship, the one being led would like to test the conviction of the person they are with. If the person can fold under pressure, who can be swayed from their own sense of right or wrong (even if swayed by the partner themselves) is not someone to be followed. A man is primarily his own judge, and a man who lacks conviction is no man at all. When you hold onto your sense of right or wrong, it demonstrates that your morals and spine is unshakable.
 
-Or they can disagree with you, you break away from each other's life completely and they can then continue with whatever moldy-bread activity it was that they brought up. You move on with your lives, with your Gut Instinct and self-respect intact.
+Otherwise they can disagree with you, you break away from each other's life completely and they can then continue with whatever moldy-bread activity it was that they brought up. You move on with your lives, with your Gut Instinct and self-respect intact.
 
 In both of above mentioned outcomes, you get to keep your integrity and sanity. You don't feel the slump in your gut from the spike in anxiety and discomfort anymore and life goes on. You are not an anxious mess torturing yourself wondering what they are doing out there, and neither are you deluding yourself into complacency and naivety. In both of the above mentioned outcomes, they respect you, you respect yourself and you continue working on your life.
 
@@ -689,11 +695,11 @@ Delving more into what happens when you don't enforce boundaries with action. Or
 
 Well, as told previously, when you ignore your gut instinct, it doesn't just vanish. It transforms into a ball of anxiety in the middle of your chest. The anxiety you felt when they said that anxiety-inducing statement hasn't gone anywhere. It is now within you, and it will build up. Whether or not you choose to acknowledge it, it stays there. It causes a constant sense of unease within you. You will be constantly concerned with what they are doing, and you will become clingy. You will start doubting your decisions, your perspective, your judgement. And why wouldn't you? You just proved to yourself that you don't value your gut instinct, your personal fire alarm, your first layer of judgement, you didn't even concern yourself with going through the process of evaluation when your first layer of judgement flared up, that you don't trust what your mind, instincts and body is telling you. You essentially force yourself into losing trust and respect for your own self. You start to delegate to your partner for judgement over matters of life. Why? Because you just proved that your own systems are not reliable. You start to overlook and justify moldy-bread behavior because you have proved to yourself they are the better judge over matters, and that you look to them for leadership, guidance and decision-making. 
 
-Again, as the anxiety and discomfort you feel is not gone, you will be bothered by it. You continue to feel bad about their behavior. So what you then conclude consciously or sub-consciously is that if you just make them happy enough, if you just be a subservient enough who listens to them and does what they say, then they will also feel indebted to you and then will stop with her moldy-bread behavior. Thus begins the loop of validation seeking behavior and covert contracts (unspoken one-sided contracts where if I just do this they will agree to being good to me).
+Again, as the anxiety and discomfort you feel is not gone, you will be bothered by it. You continue to feel bad about their behavior. So what you then conclude consciously or sub-consciously is that if you just make them happy enough, if you just be a subservient enough who listens to them and does what they say, then they will also feel indebted to you and then will stop with their moldy-bread behavior. Thus begins the loop of validation seeking behavior and covert contracts (unspoken one-sided contracts where if I just do this they will agree to being good to me).
 
 You will also start to develop resentment, which will slip out in subtle or sometimes not-so-subtle ways. Snarky remarks, trying to mate-guard. In moments when things might actually be good between you and them, you will try to bring up your discontentment with their moldy-bread behavior because your low-self-esteem-being couldn't do it properly by establishing boundaries, and in your moments of "happy-times" you will try to leverage their good mood to get them to agree with you. Like a child tries to talk to his/her parents to get them a toy when the parents seem to be in a good mood.
 
-They will look upon this all of with disgust (whether they acknowledge it or not), and lose any semblance of respect for you and will start the process of moving on from you. They will become more and more indifferent to your desires and your existence as a being. Because of which you will start to double down on your subservient behaviors with covert contracts and more validation seeking. Welcome to Anxious-Subservience hell. Your daily buffet of moldy-bread delicacies, which you willingly gorge upon. 
+They will look upon all of this with disgust (whether they acknowledge it or not), and lose any semblance of respect for you and will start the process of moving on from you. They will become more and more indifferent to your desires and your existence as a being. Because of which you will start to double down on your subservient behaviors with covert contracts and more validation seeking. Welcome to Anxious-Subservience hell. Your daily buffet of moldy-bread delicacies, which you willingly gorge upon. 
 
 Nobody stays with anyone who eats moldy-bread. "Yuck".
 
@@ -706,7 +712,7 @@ As a man, both the outcomes where you:
 - Acknowledge and trust your instincts and judgement
 - Express your discontent and then act on your boundaries 
 
-Are much better than being turned into a husk of a man, a husk of a person. If they are not invested enough in the relationship to keep away from trying to feed you moldy-bread, then tolerating it will do nothing more than give them a comfortable launching pad for them to move on from you, often in the most ruthless ways possible. If someone is trying to feed you moldy-bread, if someone is trying to get you to compromise and digest anxiety, and you agree to that, they will still feel disgusted. If they don't respect your boundaries, then in anycase the relationship will end. Either you will preserve your dignity and sanity and move on; or you will become a clingy, whiny, weak and much shittier version of yourself and then they will leave you.
+Are much better than being turned into a husk of a man, a husk of a person. If they are not invested enough in the relationship to keep away from trying to feed you moldy-bread, then tolerating it will do nothing more than give them a comfortable launching pad for them to move on from you, often in the most ruthless ways possible. If someone is trying to feed you moldy-bread, if someone is trying to get you to compromise and digest anxiety, and you agree to that, they will still feel disgusted. If they don't respect your boundaries, then in any case the relationship will end. Either you will preserve your dignity and sanity and move on; or you will become a clingy, whiny, weak and much shittier version of yourself and then they will leave you.
 
 Never compromise. If you're feeling uneasy with their behavior or statements, just know you are tolerating something you shouldn't. 
 

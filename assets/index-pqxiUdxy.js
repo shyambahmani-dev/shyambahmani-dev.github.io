@@ -123,6 +123,11 @@ date: Jun 24, 2026
 ---
 
 Outcome-pressure will deteriorate you if you work in the world of uncertainty. Have process-pressure instead. And then have a huge reservoir of faith. That's the only way.
+`,"../content/thoughts/2026-06-26-000.md":`---
+date: Jun 26, 2026
+---
+
+Mazzeee.....
 `});function Xa(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}function Za(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var Qa=Object.entries(Ya).map(([e,t])=>{let{data:n,content:r}=Xa(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Za(a),rawDate:a,body:r,draft:n.draft===`true`}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n});function $a({value:e,onChange:t,placeholder:n}){return(0,I.jsx)(`div`,{className:`searchbox`,children:(0,I.jsx)(`input`,{type:`search`,className:`searchbox-input`,value:e,onChange:e=>t(e.target.value),placeholder:n,"aria-label":n})})}function eo({from:e,to:t,total:n,dateRange:r,hasNewer:i,hasOlder:a,onNewer:o,onOlder:s,top:c=!1,label:l}){return(0,I.jsxs)(`nav`,{className:`thoughts-pager${c?` pager-top`:``}`,"aria-label":l,children:[i?(0,I.jsx)(`button`,{className:`pager-btn pager-newer`,onClick:o,children:`← Newer`}):(0,I.jsx)(`span`,{}),(0,I.jsxs)(`div`,{className:`pager-info`,children:[(0,I.jsxs)(`span`,{className:`pager-range`,children:[e,`–`,t,` of `,n]}),(0,I.jsx)(`span`,{className:`pager-dates`,children:r})]}),a?(0,I.jsx)(`button`,{className:`pager-btn pager-older`,onClick:s,children:`Older →`}):(0,I.jsx)(`span`,{})]})}var to=25;function no(e){return{__html:Ja.sanitize(R.parseInline(e))}}function ro(e){let t=new Date(e);return isNaN(t)?e:t.toLocaleDateString(`en-US`,{month:`short`,year:`numeric`})}function io(){let e=st(),{slug:t}=lt(),[n,r]=In(),{search:i}=at(),a=n.get(`q`)||``,o=t?Qa.find(e=>e.slug===t):null;if((0,x.useEffect)(()=>{t&&!o&&e(`/thoughts`,{replace:!0})},[t,o,e]),o)return(0,I.jsxs)(`section`,{className:`section active`,id:`thoughts`,children:[(0,I.jsx)(`button`,{className:`back-btn`,onClick:()=>e(`/thoughts${i}`),children:`← All thoughts`}),(0,I.jsxs)(`div`,{className:`thought`,children:[(0,I.jsx)(`div`,{className:`thought-date`,children:o.date}),(0,I.jsx)(`div`,{className:`thought-body`,dangerouslySetInnerHTML:no(o.body)})]})]});let s=a.trim().toLowerCase(),c=s?Qa.filter(e=>`${e.body} ${e.date}`.toLowerCase().includes(s)):Qa,l=Math.max(1,Math.ceil(c.length/to)),u=parseInt(n.get(`p`)||`1`,10),d=Math.min(Math.max(1,Number.isNaN(u)?1:u),l),f=(d-1)*to,p=Math.min(f+to,c.length),m=c.slice(f,p),h=c.length>to,g=d>1,_=p<c.length,v=m.length?ro(m[0].rawDate):``,y=m.length?ro(m[m.length-1].rawDate):``,b=v===y?v:`${y} – ${v}`,S=e=>{let t=new URLSearchParams(n);e?t.set(`q`,e):t.delete(`q`),t.delete(`p`),r(t,{replace:!0})},C=e=>{let t=new URLSearchParams(n);e<=1?t.delete(`p`):t.set(`p`,String(e)),r(t),window.scrollTo({top:0,behavior:`smooth`})};return(0,I.jsxs)(`section`,{className:`section active`,id:`thoughts`,children:[(0,I.jsx)(`h2`,{className:`section-heading`,children:`Short bursts`}),(0,I.jsx)(`p`,{className:`section-sub`,children:`Quips and Things on my mind. Mostly Unfiltered. Except things that could land me in jail because going to jail probably kinda sucks.`}),(0,I.jsx)($a,{value:a,onChange:S,placeholder:`Search thoughts…`}),h&&g&&(0,I.jsx)(eo,{top:!0,label:`Thoughts pages (top)`,from:f+1,to:p,total:c.length,dateRange:b,hasNewer:g,hasOlder:_,onNewer:()=>C(d-1),onOlder:()=>C(d+1)}),c.length===0&&(0,I.jsxs)(`p`,{className:`search-empty`,children:[`No thoughts match “`,a,`”.`]}),(0,I.jsx)(`div`,{id:`thoughts-list`,children:m.map(t=>{let n=()=>e(`/thoughts/${encodeURIComponent(t.slug)}${i}`);return(0,I.jsxs)(`div`,{className:`thought thought-clickable`,role:`link`,tabIndex:0,title:`Open this thought`,onClick:e=>{e.target.closest(`a`)||n()},onKeyDown:e=>{(e.key===`Enter`||e.key===` `)&&(e.preventDefault(),n())},children:[(0,I.jsx)(`div`,{className:`thought-date`,children:t.date}),(0,I.jsx)(`div`,{className:`thought-body`,dangerouslySetInnerHTML:no(t.body)})]},t.slug)})}),h&&(0,I.jsx)(eo,{label:`Thoughts pages`,from:f+1,to:p,total:c.length,dateRange:b,hasNewer:g,hasOlder:_,onNewer:()=>C(d-1),onOlder:()=>C(d+1)})]})}var ao=Object.assign({"../content/posts/Dualities.md":`---
 title: Stuck Between the Two?
@@ -149,9 +154,10 @@ draft: true
 excerpt: [Not to be published]
 ---
 
-- Idea of Man as a judge. A Man is his own judge. A judge who is influenced easily is no judge at all, no man at all.
+- My relationship with fitness and gym.
 
-- Acknowledging the Fear of conflict. Fear of conflict with people who you care about is different that fear of conflict with the world outside. About how the people in your world will rely on you having a strong sense of judgement and uncompromising sense of what's right and wrong.
+- My relationship with anger.
+
 
 `,"../content/posts/My Collection of Quotes.md":`---
 title: My Collection of Quotes
@@ -657,7 +663,7 @@ And for that reason, I genuinely dislike marketing at times (which is most times
 And to be honest, the getting-paid-for-value aspect or the paying-for-value-aspect of it isn't what bothers me at all. Trust me, I am Trader. I really do like money. I like getting paid, I understand how it is. It feels exhilarating, being paid. And I can understand how thrilling it can be, getting paid for what you offer. It also feels good to deliver your value to someone else, knowing that you made someone's life better. And receiving value from someone who is a master of their craft, and watching them go to work and deliver something wonderful to you can be quite the exquisite experience as well. Sometimes, that experience is goose-bumps inducing.
 
 Its the theatrics of marketing that really annoys me.
-
+e
 The little tricks to hijack one's attention. The subtle (and sometimes not-so-subtle) ways of pushing people's buttons and triggers, trying to get them to do something, to buy something.
 
 I dislike marketing to the point where the closest I get to liking it is how Hormozi suggests one do it, by flooding the internet with free value. And by value, I mean actual tangible value. You attract people to you by being a fountain of value, and if they want more, they can pay. It is a much simpler approach to marketing and branding. Although giving things away for free, things that you have put your blood and sweat into creating or discovering never feels completely okay. You just have faith, and trust that people will find your things valuable enough to atleast look at them, and then maybe buy for more. It gives you a quick reality check too, whether you are as good as you think. And I still don't like it enough.
@@ -701,6 +707,9 @@ Thus it becomes poignant that one really, really, *really* approaches marketing 
 
 
 [T.B.C.]
+
+
+
 `,"../content/posts/the-slow-poison-called-compromise.md":`---
 title: The slow poison of Compromise
 date: Jun 16, 2026

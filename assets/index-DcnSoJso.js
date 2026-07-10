@@ -198,7 +198,7 @@ You *curiosity* can take up as much time as you give it. It is quite the *blessi
 title: Stuck Between the Two?
 date: Jun 12, 2026
 draft: true
-excerpt: Let's go beyond dichotomies.
+excerpt: Let's go beyond dichotomies. Maybe being between the two is the right place to be...
 ---
 
 # EITHER!!, OR!!!! 
@@ -713,20 +713,44 @@ excerpt: Some statements from the greats which I reflect back on from time to ti
 title: My Shayaris and Poems.
 date: July 04, 2026
 excerpt: Kinda embarrassing....
-draft: true
+draft: false
 ---
 
 1. 
 
 "Haan rehta hu behpanah lekin,
+
 Tanhai ka mujhe koi fitoor nahi.
 
+<br/>
+
 Par aisa pyaar karke bhi kya faeda, 
+
 Jisme dil majboor nahi. "
+
+~ (2022)
 
 <br/>
 
 2. 
+
+"Aur hai manzoori mujhe,
+
+Meri majboori mein,
+
+Tera saath bane meri raahat.
+
+<br/>
+
+Par ab door na karna mujhko tum,
+
+Nahi rahi mujhe ab sirf majboor rehne ki aadat." 
+
+~ (2025)
+
+<br/>
+
+3. 
 
 "Thakk gaya main bhatakta,
 
@@ -736,7 +760,71 @@ Main tera hua aur tujhme hi sansaar paa liya."
 
 <br/>
 
-3. 
+4. 
+
+"Ab jab hai sab apne upar hi,
+
+Toh chodd dein kahi koi kasar kaise?
+
+<br/>
+
+Jab pata ho ki chalna hai akele,
+
+Toh phir badnaami ke asar kaise?"
+
+<br/>
+
+5.
+
+"Dil yun rookha hua,
+
+Ke maano sookh gaya,
+
+Laga ki saalon mein beet gaye hazaaron zamane.
+
+<br/>
+
+Ke ab sirf vakt bitaane ke main dhoondhun bahaane,
+
+Ab kisi se na rahe mere itne yaarane."
+
+<br/>
+
+6. 
+
+"Bekaar hi khud ko tang kar rahi ho,
+
+Tum humse nazarein chura ke,
+
+<br/>
+
+Na lage achcha,
+
+Saath tumhe mera,
+
+<br/>
+
+Toh jee lena baaqi saari zindagi tum humein bhula ke."
+
+<br/>
+
+
+7.
+
+"Meri jaan vaise toh yeh mann mera,
+
+Chahe ke main humesha,
+
+Jeeyun bina kisi ke sahaare.
+
+<br/>
+
+Par jaanemann tumne kiye aise ishaare,
+
+ke maine rakhkh ke vivek ko kinaare.
+
+Kuch der tumhare iss khel mein rammna theek samjha. "
+
 
 
 `,"../content/posts/on-marketing.md":`---

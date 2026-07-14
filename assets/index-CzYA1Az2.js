@@ -193,6 +193,16 @@ date: Jul 10, 2026
 ---
 
 Your *curiosity* can take up as much time as you give it. It is quite the *blessing.* 
+`,"../content/thoughts/2026-07-10-003.md":`---
+date: Jul 10, 2026
+---
+
+The masculine urge to order kadhai-paneer at chinese restaurants.
+`,"../content/thoughts/2026-07-13-000.md":`---
+date: Jul 13, 2026
+---
+
+Programming is magic! Mazzeee.....
 `});function Xa(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}function Za(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var Qa=Object.entries(Ya).map(([e,t])=>{let{data:n,content:r}=Xa(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Za(a),rawDate:a,body:r,draft:n.draft===`true`}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n});function $a({value:e,onChange:t,placeholder:n}){return(0,I.jsx)(`div`,{className:`searchbox`,children:(0,I.jsx)(`input`,{type:`search`,className:`searchbox-input`,value:e,onChange:e=>t(e.target.value),placeholder:n,"aria-label":n})})}function eo({from:e,to:t,total:n,dateRange:r,hasNewer:i,hasOlder:a,onNewer:o,onOlder:s,top:c=!1,label:l}){return(0,I.jsxs)(`nav`,{className:`thoughts-pager${c?` pager-top`:``}`,"aria-label":l,children:[i?(0,I.jsx)(`button`,{className:`pager-btn pager-newer`,onClick:o,children:`← Newer`}):(0,I.jsx)(`span`,{}),(0,I.jsxs)(`div`,{className:`pager-info`,children:[(0,I.jsxs)(`span`,{className:`pager-range`,children:[e,`–`,t,` of `,n]}),(0,I.jsx)(`span`,{className:`pager-dates`,children:r})]}),a?(0,I.jsx)(`button`,{className:`pager-btn pager-older`,onClick:s,children:`Older →`}):(0,I.jsx)(`span`,{})]})}var to=15;function no(e){return{__html:Ja.sanitize(R.parseInline(e))}}function ro(e){let t=new Date(e);return isNaN(t)?e:t.toLocaleDateString(`en-US`,{month:`short`,year:`numeric`})}function io(){let e=st(),{slug:t}=lt(),[n,r]=In(),{search:i}=at(),a=n.get(`q`)||``,o=t?Qa.find(e=>e.slug===t):null;if((0,x.useEffect)(()=>{t&&!o&&e(`/thoughts`,{replace:!0})},[t,o,e]),o)return(0,I.jsxs)(`section`,{className:`section active`,id:`thoughts`,children:[(0,I.jsx)(`button`,{className:`back-btn`,onClick:()=>e(`/thoughts${i}`),children:`← All thoughts`}),(0,I.jsxs)(`div`,{className:`thought`,children:[(0,I.jsx)(`div`,{className:`thought-date`,children:o.date}),(0,I.jsx)(`div`,{className:`thought-body`,dangerouslySetInnerHTML:no(o.body)})]})]});let s=a.trim().toLowerCase(),c=s?Qa.filter(e=>`${e.body} ${e.date}`.toLowerCase().includes(s)):Qa,l=Math.max(1,Math.ceil(c.length/to)),u=parseInt(n.get(`p`)||`1`,10),d=Math.min(Math.max(1,Number.isNaN(u)?1:u),l),f=(d-1)*to,p=Math.min(f+to,c.length),m=c.slice(f,p),h=c.length>to,g=d>1,_=p<c.length,v=m.length?ro(m[0].rawDate):``,y=m.length?ro(m[m.length-1].rawDate):``,b=v===y?v:`${y} – ${v}`,S=e=>{let t=new URLSearchParams(n);e?t.set(`q`,e):t.delete(`q`),t.delete(`p`),r(t,{replace:!0})},C=e=>{let t=new URLSearchParams(n);e<=1?t.delete(`p`):t.set(`p`,String(e)),r(t),window.scrollTo({top:0,behavior:`smooth`})};return(0,I.jsxs)(`section`,{className:`section active`,id:`thoughts`,children:[(0,I.jsx)(`h2`,{className:`section-heading`,children:`Short bursts`}),(0,I.jsx)(`p`,{className:`section-sub`,children:`Quips and Things on my mind. Mostly Unfiltered. `}),(0,I.jsx)($a,{value:a,onChange:S,placeholder:`Search thoughts…`}),h&&g&&(0,I.jsx)(eo,{top:!0,label:`Thoughts pages (top)`,from:f+1,to:p,total:c.length,dateRange:b,hasNewer:g,hasOlder:_,onNewer:()=>C(d-1),onOlder:()=>C(d+1)}),c.length===0&&(0,I.jsxs)(`p`,{className:`search-empty`,children:[`No thoughts match “`,a,`”.`]}),(0,I.jsx)(`div`,{id:`thoughts-list`,children:m.map((t,n)=>{let r=()=>e(`/thoughts/${encodeURIComponent(t.slug)}${i}`),a=n===0&&g,o=n===m.length-1&&_;return(0,I.jsxs)(`div`,{className:`thought thought-clickable${a?` more-newer`:``}${o?` more-older`:``}`,role:`link`,tabIndex:0,title:`Open this thought`,onClick:e=>{e.target.closest(`a`)||r()},onKeyDown:e=>{(e.key===`Enter`||e.key===` `)&&(e.preventDefault(),r())},children:[(0,I.jsx)(`div`,{className:`thought-date`,children:t.date}),(0,I.jsx)(`div`,{className:`thought-body`,dangerouslySetInnerHTML:no(t.body)})]},t.slug)})}),h&&(0,I.jsx)(eo,{label:`Thoughts pages`,from:f+1,to:p,total:c.length,dateRange:b,hasNewer:g,hasOlder:_,onNewer:()=>C(d-1),onOlder:()=>C(d+1)})]})}var ao=Object.assign({"../content/posts/beyond-dichotomies.md":`---
 title: Stuck Between the Two?
@@ -733,6 +743,7 @@ Jisme dil majboor nahi. "
 ~ (2022)
 
 <br/>
+<br/>
 
 2. 
 
@@ -751,6 +762,7 @@ Nahi rahi mujhe ab sirf majboor rehne ki aadat."
 ~ (2025)
 
 <br/>
+<br/>
 
 3. 
 
@@ -760,6 +772,7 @@ Maine ab moh maar diya,
 
 Main tera hua aur tujhme hi sansaar paa liya."
 
+<br/>
 <br/>
 
 4. 
@@ -775,8 +788,9 @@ Jab pata ho ki chalna hai akele,
 Toh phir badnaami ke asar kaise?"
 
 <br/>
+<br/>
 
-5.
+5. 
 
 "Dil yun rookha hua,
 
@@ -790,6 +804,7 @@ Ke ab sirf vakt bitaane ke main dhoondhun bahaane,
 
 Ab kisi se na rahe mere itne yaarane."
 
+<br/>
 <br/>
 
 6. 
@@ -809,9 +824,10 @@ Saath tumhe mera,
 Toh jee lena baaqi saari zindagi tum humein bhula ke."
 
 <br/>
+<br/>
 
 
-7.
+7. 
 
 "Meri jaan vaise toh yeh mann mera,
 
@@ -826,6 +842,24 @@ Par jaanemann tumne kiye aise ishaare,
 ke maine rakhkh ke vivek ko kinaare.
 
 Kuch der tumhare iss khel mein rammna theek samjha. "
+
+<br/>
+<br/>
+
+8. 
+
+"Kab tak yun barbaad rahoge?
+
+Sab log mujhe yeh kehte the.
+
+<br/>
+
+Main kya karun mere sapne bhi voh tute,
+
+Joh akele nahi dekhe the."
+
+<br/>
+<br/>
 
 
 

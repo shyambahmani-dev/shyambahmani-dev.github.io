@@ -383,6 +383,22 @@ date: Aug 17, 2026
 ---
 
 I am not the greatest programmer on Earth but I am for sure one of the *greatest*. 
+`,"../content/thoughts/2026-08-17-001.md":`---
+date: Aug 17, 2026
+---
+
+I love talking about *dirty* and naughty subjects like adjusted EBITDA and *Javascript.*
+`,"../content/thoughts/2026-08-17-002.md":`---
+date: Aug 17, 2026
+---
+
+Jai Hind!
+`,"../content/thoughts/2026-08-17-003.md":`---
+date: Aug 17, 2026
+---
+
+Meri Jaan, *let* me remind you, you are *magic!*
+
 `}),hr={},gr={...mr,...hr};function _r(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}function vr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var yr=Object.entries(gr).map(([e,t])=>{let{data:n,content:r}=_r(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:vr(a),rawDate:a,body:r,draft:n.draft===`true`}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),br=Object.assign({"../content/posts/first-post.md":`---
 title: Why I Built This Site 

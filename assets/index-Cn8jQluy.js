@@ -403,7 +403,17 @@ Meri Jaan, *let* me remind you, you are *magic!*
 date: Aug 19, 2026
 ---
 
-*Markets* at anytime lies on a spectrum which goes from being Generous to being Unforgiving.
+*Markets* at anytime lie on a spectrum which goes from being Generous to being Unforgiving.
+`,"../content/thoughts/2026-08-19-001.md":`---
+date: Aug 19, 2026
+---
+
+I entered the *triple digits* in *benchpress* recently and my happiness knows no bounds. Now all of my main three lifts are in the triple digits. First time in my life. *Jai Shri Krishna!*"
+`,"../content/thoughts/2026-08-19-002.md":`---
+date: Aug 19, 2026
+---
+
+*Jai Shri Krishna!*
 `}),hr={},gr={...mr,...hr};function _r(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}function vr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var yr=Object.entries(gr).map(([e,t])=>{let{data:n,content:r}=_r(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:vr(a),rawDate:a,body:r,draft:n.draft===`true`}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),br=Object.assign({"../content/posts/first-post.md":`---
 title: Why I Built This Site 

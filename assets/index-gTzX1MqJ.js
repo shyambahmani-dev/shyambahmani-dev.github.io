@@ -468,7 +468,7 @@ So these are my thoughts *laid bare*. I hope they are valuable or entertaining t
 
 `,"../content/posts/fitness-and-me-upcoming.md":`---
 title: Fitness as a Drug
-date: Aug 20, 2026
+date: Aug 30, 2026
 excerpt: My on-and-off relationship-cum-acceptance with Fitness
 upcoming: true
 ---

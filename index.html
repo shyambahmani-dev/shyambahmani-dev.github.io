@@ -16,6 +16,13 @@
          broadcast — reachable by anyone with the link, but not indexed/listed. -->
     <meta name="robots" content="noindex, nofollow" />
 
+    <!-- RSS autodiscovery. Two static feeds generated at build time (rss-feed.js →
+         dist/blog.xml, dist/thoughts.xml). Opt-in for a reader, like sharing the
+         link — does NOT affect noindex above. Dev has no feed files (the plugin is
+         build-only), but these links are inert in the page; only feed readers fetch. -->
+    <link rel="alternate" type="application/rss+xml" title="Shyam Bahmani — Blog" href="/blog.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Shyam Bahmani — Thoughts" href="/thoughts.xml" />
+
     <!-- Link previews: how the site looks when the link is pasted into
          WhatsApp / Discord / iMessage / Slack etc. (noindex above is unaffected —
          these only control the unfurled card, not search visibility).
@@ -46,7 +53,7 @@
          two most-visible faces (the Fraunces hero + Open Sans body) so first paint has them. -->
     <link rel="preload" href="/fonts/fraunces-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="/fonts/open-sans-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
-    <script type="module" crossorigin src="/assets/index-BplDVJl0.js"></script>
+    <script type="module" crossorigin src="/assets/index-D39C_3fD.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-B93FsLaQ.css">
   </head>
   <body>

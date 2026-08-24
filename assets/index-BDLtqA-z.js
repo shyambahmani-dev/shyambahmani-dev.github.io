@@ -433,12 +433,12 @@ I just keep shifting the dates on the article release because writing for writin
 date: Aug 24, 2026
 ---
 
-You have an idea for a new feature for your offering, and then the process of building that new feature is what will bring out newer, better ideas for the next iteration for your offering. That is how you always stay ahead of your competition who might just be busy copying you. They will always be late.
+You have an idea for a *new* feature for your offering, and then the process of *building* that new feature is what will bring out newer, better ideas for the next iteration for your offering. That is how you always stay *ahead* of your competition who might just be busy copying you. They will always be late.
 `,"../content/thoughts/2026-08-24-001.md":`---
 date: Aug 24, 2026
 ---
 
-It's when you stop having passion and love for your offering and the people who use it, that you stop getting new ideas for it and stop innovating. And then, the competition eats your market share away.
+It's when you stop having passion and *love for your offering and the people* who use it, that you stop getting new ideas for it and stop innovating. And then, the competition eats your market share away.
 `}),hr={},gr={...mr,...hr};function _r(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}function vr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var yr=Object.entries(gr).map(([e,t])=>{let{data:n,content:r}=_r(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:vr(a),rawDate:a,body:r,draft:n.draft===`true`}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),br=Object.assign({"../content/posts/first-post.md":`---
 title: Why I Built This Site 

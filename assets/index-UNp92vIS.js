@@ -449,6 +449,16 @@ date: Aug 24, 2026
 ---
 
 *Fear is a great sentry*, a great watchman, but that's all its good for. As a messenger, or as an executioner of pre-planned orders or responses. The Sentry should report to The Commander, and then The Commander should plan the response. *The Sentry should never plan*.
+`,"../content/thoughts/2026-08-26-000.md":`---
+date: Aug 26, 2026
+---
+
+Protein shakes *are* a game changer for me. I have *lifted* before, but I didn't make extensive use of protein shakes back then, and thus I had never made progress at the current *pace* before. Even though I was leaner and still strong-ish, I was no where near where *I am now.* 
+`,"../content/thoughts/2026-08-26-001.md":`---
+date: Aug 26, 2026
+---
+
+One great thing about *making money* is that I can now finally afford protein and proper nutrition. Its awesome. 
 `}),hr={},gr={...mr,...hr};function _r(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}function vr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var I=Object.entries(gr).map(([e,t])=>{let{data:n,content:r}=_r(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:vr(a),rawDate:a,body:r,draft:n.draft===`true`}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),yr=Object.assign({"../content/posts/first-post.md":`---
 title: Why I Built This Site 

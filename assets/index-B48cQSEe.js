@@ -553,7 +553,7 @@ upcoming: true
 
 ### I am ...
 `,"../content/posts/goat-word-puns.md":`---
-title: My best word puns so far
+title: My Best Word Puns so Far
 date: Aug 30, 2026
 excerpt: Who doesn't like another one? I'll tell you, Wun.
 ---

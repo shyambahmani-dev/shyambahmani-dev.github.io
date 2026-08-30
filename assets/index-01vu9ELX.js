@@ -469,6 +469,26 @@ date: Aug 26, 2026
 ---
 
 In Trading there is a 'Stop-Loss' or 'S/L', there is a 'Take-Profit' or 'T/P', but once the trade is sufficiently in green, between the entry and the current market price, there is then also a *'JTM' or 'Just Take the Money'.*
+`,"../content/thoughts/2026-08-29-000.md":`---
+date: Aug 29, 2026
+---
+
+Haelow, High Low, Hi Loe, Hell Oh!, El Ho!
+`,"../content/thoughts/2026-08-30-000.md":`---
+date: Aug 30, 2026
+---
+
+*Gruntle* doesn't sound *like* what it means at all. And somehow, Gruntle and *Disgruntled* sound like they mean the same thing. What a world!
+`,"../content/thoughts/2026-08-30-001.md":`---
+date: Aug 30, 2026
+---
+
+I have *never* used a *'goto'* statement in my life and I am *proud* of it. 
+`,"../content/thoughts/2026-08-30-002.md":`---
+date: Aug 30, 2026
+---
+
+No dirty thoughts here *(I have dirty thoughts)*.
 `}),gr={},_r={...hr,...gr};function vr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}function yr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var I=Object.entries(_r).map(([e,t])=>{let{data:n,content:r}=vr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:yr(a),rawDate:a,body:r,draft:n.draft===`true`}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),br=Object.assign({"../content/posts/first-post.md":`---
 title: Why I Built This Site 

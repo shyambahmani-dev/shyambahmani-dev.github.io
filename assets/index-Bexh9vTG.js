@@ -489,6 +489,21 @@ date: Aug 30, 2026
 ---
 
 No dirty thoughts here *(I have dirty thoughts)*.
+`,"../content/thoughts/2026-08-30-003.md":`---
+date: Aug 30, 2026
+---
+
+Enjoy the good *rays* while you *tan*.
+`,"../content/thoughts/2026-08-30-004.md":`---
+date: Aug 30, 2026
+---
+
+I'd say refusing a decently fine banana when offered, if you haven't had one in the last 24 Hours is a *deeply* morally wrong thing to do.
+`,"../content/thoughts/2026-08-30-005.md":`---
+date: Aug 30, 2026
+---
+
+It was *a trade-off*, but I got it done. I couldn't ship something I wasn't satisfied with. But I had to *keep my word*, my masculinity depended on it. I *clutched it*, I have clutched it before many times. I don't like having to do it, but sometimes one has to.
 `}),gr={},_r={...hr,...gr};function vr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}function yr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var I=Object.entries(_r).map(([e,t])=>{let{data:n,content:r}=vr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:yr(a),rawDate:a,body:r,draft:n.draft===`true`}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),br=Object.assign({"../content/posts/first-post.md":`---
 title: Why I Built This Site 
@@ -528,7 +543,7 @@ So these are my thoughts *laid bare*. I hope they are valuable or entertaining t
 
 `,"../content/posts/fitness-and-me-upcoming.md":`---
 title: Fitness as a Drug
-date: Aug 30, 2026
+date: Sept 5, 2026
 excerpt: My on-and-off relationship-cum-acceptance with Fitness
 upcoming: true
 ---
@@ -538,6 +553,37 @@ upcoming: true
 ### I used to be ...
 
 ### I am ...
+`,"../content/posts/goat-word-puns.md":`---
+title: My best word puns so far
+date: Aug 30, 2026
+excerpt: Who doesn't like another one? I'll tell you, Wun.
+---
+
+
+
+
+- If banana as a word is funny, think Bananas. Bananas. Bananas. Banenas. Buhnaenaas.
+
+- The Duning Kruger effect is all-around us. Always look for it.
+
+- Tie-po hehe...
+
+- I like Mangoes. Mangos. 'Man, GO'. Man goes. Man, goes... My Ann goes? My (Dear) Ann... goes...
+
+- Someone once said 'Recursive Duning Kruger' and it's the absolute pinnacle of elegance and beauty.
+
+- Appropriate Apple Applications Applied Aptly.
+
+- The only thought I think I have ever finished is that Gulab Jaamun is tasty. Other things can also be tasty, but Gulaab Jamoon certainly is.
+
+- Bun Anna
+
+- I think it goes without saying...
+
+- Haelow, High Low, Hi Loe, Hell Oh!, El Ho!
+
+- Enjoy the good rays while you tan.
+
 `,"../content/posts/my-collection-of-quotes.md":`---
 title: My Collection of Quotes
 date: Jun 11, 2026

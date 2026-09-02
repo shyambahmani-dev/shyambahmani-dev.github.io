@@ -519,6 +519,11 @@ date: Sep 02, 2026
 ---
 
 I am *just* letting you know that I benched 100kg for 3 yesterday and I feel like my soul will be *redeemed*. 
+`,"../content/thoughts/2026-09-02-001.md":`---
+date: Sep 02, 2026
+---
+
+Listen my dear, I know you have a mid-2010s Laptop there somewhere, it is crucial that you install a Linux distro on it and make it your new *obession.*
 `}),gr={},_r={...hr,...gr};function vr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}function yr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var I=Object.entries(_r).map(([e,t])=>{let{data:n,content:r}=vr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:yr(a),rawDate:a,body:r,draft:n.draft===`true`}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),br=Object.assign({"../content/posts/first-post.md":`---
 title: Why I Built This Site 
@@ -1188,74 +1193,6 @@ Joh akele nahi dekhe the."
 
 <br/>
 <br/>
-
-
-
-`,"../content/posts/on-marketing.md":`---
-title: On Marketing
-draft: true
-excerpt: Everyone's holding a banner. And I am being made to pay attention to it.
-upcoming: true
----
-
-
-# What's been up?
-
-<br/>
-
-The world is definitely way more louder than it used to be (pick any date), and its getting more so each day. And there also more number of voices and noises coming from it. And we are very creatively, sometimes deceptively and sometimes blatantly also being made to hear it as much as the world can make us.
-
-Every notification, every feed post, every "you won't believe what happened next", every "we do this and don't miss out on it", every "hey did you know how this is affecting your life" and billboards and podcast sections and what not. It can be quite mind-numbing if you engage with it even briefly, and soul-deadening if you engage with it enough. It is suffocating, it tries to encapsulate me.
-
-And for that reason, I genuinely dislike marketing at times (which is most times). It makes me feel like I can never just trust a person as a person. I am always looking around nervously, for the pitch. And I only feel at peace when I am able to figure out what the pitch is. When I can't figure out a pitch when someone talks on the web, I get shifty, I get nervous, for I know I am being influenced and I can't point it out exactly how. Scary thought, if you really think about it. It's either that, or I am being prepped for a pitch which will come soon. I gotta watch out for when that happens man. I gotta be prepared to catch it at the right time. Sweaty Eyebrows, shaky hands, just ready for the pitch, always.
-
-And to be honest, the getting-paid-for-value aspect or the paying-for-value-aspect of it isn't what bothers me at all. Trust me, I am Trader. I really do like money. I like getting paid, I understand how it is. It feels exhilarating, being paid. And I can understand how thrilling it can be, getting paid for what you offer. It also feels good to deliver your value to someone else, knowing that you made someone's life better. And receiving value from someone who is a master of their craft, and watching them go to work and deliver something wonderful to you can be quite the exquisite experience as well. Sometimes, that experience is goose-bumps inducing.
-
-Its the theatrics of marketing that really annoys me.
-e
-The little tricks to hijack one's attention. The subtle (and sometimes not-so-subtle) ways of pushing people's buttons and triggers, trying to get them to do something, to buy something.
-
-I dislike marketing to the point where the closest I get to liking it is how Hormozi suggests one do it, by flooding the internet with free value. And by value, I mean actual tangible value. You attract people to you by being a fountain of value, and if they want more, they can pay. It is a much simpler approach to marketing and branding. Although giving things away for free, things that you have put your blood and sweat into creating or discovering never feels completely okay. You just have faith, and trust that people will find your things valuable enough to atleast look at them, and then maybe buy for more. It gives you a quick reality check too, whether you are as good as you think. And I still don't like it enough.
-
-Moreover, the approach of delivering free value can fail as a marketing strategy if you don't put in enough effort to get it infront of eyeballs, and to make those eyeballs see and then stick to your content. Man, are our eyeballs real shifty these days.
-
-What irritates me is my own idealism's contrast with the way the world actually is. 
-
-## "Make it great, and they will come" doesn't really work
-
-I always wanted to, desperately wanted to believe that if you just make a great, great product, then the people will come to buy it in hordes by themselves.
-
-God will announce straight from the heavens "Rejoice, mortals! This guy has created something that will solve your this-very-specific-problem. Just go to him and pay him, he'll help you! Haste my child, this man is your savior."
-
-That doesn't happen.
-
-Marketing is quite important. Letting people know you exist and that you can solve their problem is very important. Moreover, if you are in fresh enough of a market you may have to convince people that they have a problem in the first place. Or that the problem is worth solving. Usually that's a very, very rare market if it is actually any good. By implication, it is much more likely that the idea is just finely-dressed up stupidity. Regardless, the concept of marketing seems incredibly important to me. The actual process of marketing, feels like a hack. Flashy, superficial, distasteful. No matter how well it is done.
-
-### 
-
-But I believe that stems from the way marketing as a concept has been introduced to me. And I think its not just marketing, the corporate-universe as a whole was introduced to me in a very heart-breaking manner. It was introduced to me as a place where the ability of ripping-people-off is extremely rewarded for. And one of the places in corporate where this is very palpable, is marketing. 
-
-Introduced by who? Well, *the world* actually. 
-
-{Introduction to corporate scams. Marketing being a large part of how corporate scams work. Disdain for marketing came from that.}
-
-## Which is also why I particularly like Trading as a career
-
-I just do my job and don't have to sell anyone anything. The downside is that the inherent activity of trading doesn't create anything, tangible or intangible. I literally just make money. That is all I do.
-
-Somewhere, sometimes, I do miss the process of creating something good. One hopes that the "something" that they create is of value to someone in the world. I fulfill that need by doing some small projects such as this website, the words you see on it, and some boutique software solutions for myself. The software that I have made, by my self or by using AI is something that's quite fun and something that I am proud of.
-
-I can quite easily tell if something I have created is half-good or not. I know what I want thus I know whether I solved my own problem or not.
-
-
-## My work around for people like me
-
-I would say that I am a pretty good communicator. I usually rely on being a great listener, and a great question-asker. In terms of marketing it doesn't translate well directly if as marketing is almost always done from a mono-directional communication channel. You can't really hear the audience, at least not live. Only metric one gets reliably is where the audience dropped off.
-
-Thus it becomes poignant that one really, really, *really* approaches marketing from an extremely empathetic perspective. One of the best things I did for myself back in college was preparing for Product-Management roles. The simplest way to explain a PM's job is to *"be the voice of the customer in the company"*. I really liked that perspective. It changed the way  and having that when one approaches marketing is critical. Their obsession with making the customer happy. The level of understanding and empathy required for developing that, if applied to marketing, easily solves the messaging problem. Whether or not the message is relevant to the customer.
-
-
-[T.B.C.]
 
 
 

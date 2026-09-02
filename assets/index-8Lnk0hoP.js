@@ -598,6 +598,7 @@ excerpt: Who doesn't like another one? I'll tell you, Wun.
 
 - Enjoy the good rays while you tan.
 
+- Fantastic. Fanta's Tic. Fanta-Stick. Fan? That's teak.
 `,"../content/posts/my-collection-of-quotes.md":`---
 title: My Collection of Quotes
 date: Jun 11, 2026

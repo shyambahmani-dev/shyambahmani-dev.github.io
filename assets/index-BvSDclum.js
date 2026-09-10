@@ -554,6 +554,11 @@ date: Sep 08, 2026
 ---
 
 *Balancing* the *doubt* that keeps one sharp and the *conviction* that keeps one's resolve meaningful is a very chaotic balancing act, atleast for me as of now. I have gained as well as messed up from having been a cynic, I have gained and messed up from having been stubborn too. The best modus operandi that I have come up with is, being incredibly cynical during *analysis*, and being very firm in *action*.
+`,"../content/thoughts/2026-09-10-000.md":`---
+date: Sep 10, 2026
+---
+
+I can't confirm but I have a *feeling* that the more detached I am, the *better* I perform. Or atleast I don't make as many bad decisions. 
 `}),hr={},gr={...mr,...hr};function _r(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}function vr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var L=Object.entries(gr).map(([e,t])=>{let{data:n,content:r}=_r(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:vr(a),rawDate:a,body:r,draft:n.draft===`true`}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),yr=Object.assign({"../content/posts/first-post.md":`---
 title: Why I Built This Site 
@@ -1226,7 +1231,7 @@ Joh akele nahi dekhe the."
 
 
 
-`,"../content/posts/on-marketing.md":`---
+`,"../content/posts/on-marketing-upcoming.md":`---
 title: On Marketing
 excerpt: Everyone's holding a banner. And I am being made to pay attention to it.
 upcoming: true

@@ -598,7 +598,7 @@ If you've been writing anything on the internet for a while and don't have your 
 
 Having a nice space to write also makes one want to write. I guess its similar to how people decide to buy expensive gym-wear, and then go to the gym so as to not waste it. 
 
-So these are my thoughts *laid bare*. I hope they are valuable or entertaining to you. I had fun.
+So these are my thoughts *laid bare*. I hope they are valuable or entertaining to you. I had fun. 
 
 
 

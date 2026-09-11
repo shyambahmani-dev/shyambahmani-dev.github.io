@@ -1237,7 +1237,6 @@ Joh akele nahi dekhe the."
 
 `,"../content/posts/on-marketing-preview.md":`---
 title: On Marketing
-date: Sep 11, 2026
 excerpt: Everyone's holding a banner. And I am being made to pay attention to it.
 preview: true
 ---

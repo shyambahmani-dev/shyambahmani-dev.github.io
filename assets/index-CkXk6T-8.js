@@ -559,6 +559,11 @@ date: Sep 10, 2026
 ---
 
 I can't confirm but I have a *feeling* that the more detached I am, the *better* I perform. Or atleast I don't make as many bad decisions. 
+`,"../content/thoughts/2026-09-11-000.md":`---
+date: Sep 11, 2026
+---
+
+Convert your Sneak Peeks to Sleek *Peaks.* 
 `}),hr={},gr={...mr,...hr};function _r(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var vr=e=>String(e).trim().toLowerCase()===`true`;function yr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var L=Object.entries(gr).map(([e,t])=>{let{data:n,content:r}=_r(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:yr(a),rawDate:a,body:r,draft:vr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),br=Object.assign({"../content/posts/first-post.md":`---
 title: Why I Built This Site 

@@ -651,13 +651,9 @@ released: true
 
 - I think it goes without saying...
 
-- Haelow, High Low, Hi Loe, Hell Oh!, El Ho!
-
 - Enjoy the good rays while you tan.
 
-- Fantastic. Fanta's Tic. Fanta-Stick. Fan? That's teak.
 
-- Convert your Sneak Peeks to Sleek Peaks.
 `,"../content/posts/my-collection-of-quotes.md":`---
 title: My Collection of Quotes
 date: Jun 11, 2026

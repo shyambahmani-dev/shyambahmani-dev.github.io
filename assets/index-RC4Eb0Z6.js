@@ -574,6 +574,16 @@ date: Sep 14, 2026
 ---
 
 I will try and *only be bored* during the market hours and see if that improved anything. I wanna experiment this for a week. Let's see. Jai Shri Krishna!
+`,"../content/thoughts/2026-09-14-002.md":`---
+date: Sep 14, 2026
+---
+
+*Trading* is pure navigation through reasonable doubt and I love it. In a 'Oh I love my job way'. And the only reason I state this, this clearly, is because I continue having a concern about not letting it turn into a 'Oh my God, I won so much money I am the king of the heavens let's play again' kinda way. This doubt, keeps me in check. And it works. It's good. And to be honest, *I am good.* Quite good.
+`,"../content/thoughts/2026-09-14-003.md":`---
+date: Sep 14, 2026
+---
+
+Always give your wife/significant-other the pleasure, adventure and thrill of dealing with an *arrogant, stubborn and free-spirited* mind from time to time. Make sure to also be *smart*, so that you are arrogant and stubborn while being on the logically sound side of the argument. Whereas having a free-spirited mind, that's mostly just *for yourself*. Nonchalance has its own charm. 
 `}),hr={},gr={...mr,...hr};function _r(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var vr=e=>String(e).trim().toLowerCase()===`true`;function yr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var L=Object.entries(gr).map(([e,t])=>{let{data:n,content:r}=_r(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:yr(a),rawDate:a,body:r,draft:vr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),br=Object.assign({"../content/posts/first-post.md":`---
 title: Why I Built This Site 

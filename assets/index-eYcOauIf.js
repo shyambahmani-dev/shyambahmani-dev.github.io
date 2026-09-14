@@ -584,6 +584,26 @@ date: Sep 14, 2026
 ---
 
 Always give your wife/significant-other the pleasure, adventure and thrill of dealing with an *arrogant, stubborn and free-spirited* mind from time to time. Make sure to also be *smart*, so that you are arrogant and stubborn while being on the logically sound side of the argument. Whereas having a free-spirited mind, that's mostly just *for yourself*. Nonchalance has its own charm. 
+`,"../content/thoughts/2026-09-14-004.md":`---
+date: Sep 14, 2026
+---
+
+Honestly speaking, turning every passage of writing into something that has to *convince* the reader seems like a very weak mindset to be in. Why am I *not* supposed to be wrong? Or ignorant? Why this urge to justify and negotiate and present with a 'clear-conscience' always? Maybe I have *unrefined* ideas. Why is that a *problem?*
+`,"../content/thoughts/2026-09-14-005.md":`---
+date: Sep 14, 2026
+---
+
+As long as my writing is *actually* good writing, is actually *readable*, and conveys what I want it to, I could care less about how what I am conveying is perceived. I do *like* to add some comedic or dramatic sections, because that is part of good writing. *I care about that part.*
+`,"../content/thoughts/2026-09-14-006.md":`---
+date: Sep 14, 2026
+---
+
+I like some engaging and good writing which conveys its point with clarity much more than the point being conveyed. The point stands at its own merit, *the reader* can choose to discard. I want to love the reader, by nurturing their reading experience, by making it fun and *pleasurable*. I love you, for you. 
+`,"../content/thoughts/2026-09-14-007.md":`---
+date: Sep 14, 2026
+---
+
+Not to be *too* touchy-feely, but I am feeling a little touchy-feely. A weird mix of *vulnerable and pointy*. Let's talk about Tech again ehh, Functional Programmers amirite hehe. About trading? Not like that. Trading is personal. Haskell amirite hehe (I don't know how to program in *Haskell* but don't tell anyone else). *Hehe.* 
 `}),hr={},gr={...mr,...hr};function _r(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var vr=e=>String(e).trim().toLowerCase()===`true`;function yr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var L=Object.entries(gr).map(([e,t])=>{let{data:n,content:r}=_r(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:yr(a),rawDate:a,body:r,draft:vr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),br=Object.assign({"../content/posts/first-post.md":`---
 title: Why I Built This Site 

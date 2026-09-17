@@ -609,6 +609,11 @@ date: Sep 16, 2026
 ---
 
 Man I love *benching 100kg for reps*. It's a pure dream come true. I genuinely used to dream about being able to do *this* one *day*. The thrill and happiness of doing it never goes away. There was a time when it was such a big target and goal for me. Now I can do it for reps. *Jai Shri Krishna!* 
+`,"../content/thoughts/2026-09-17-000.md":`---
+date: Sep 17, 2026
+---
+
+Cutting weight through application of *sheer* will can only be done when the desire for it comes from deep within the *soul.* 
 `}),hr={},gr={...mr,...hr};function _r(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var vr=e=>String(e).trim().toLowerCase()===`true`;function yr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var L=Object.entries(gr).map(([e,t])=>{let{data:n,content:r}=_r(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:yr(a),rawDate:a,body:r,draft:vr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),br=Object.assign({"../content/posts/first-post.md":`---
 title: Why I Built This Site 

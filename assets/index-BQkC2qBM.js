@@ -651,6 +651,11 @@ date: Sep 21, 2026
 ---
 
 I truly *love my work* man. I genuinely do, I am incredibly grateful for it. Always. What a dream come true. Jai Shri Krishna!
+`,"../content/thoughts/2026-09-21-003.md":`---
+date: Sep 21, 2026
+---
+
+There is a certain pleasure in heartaches. Somehow feels like placing your *hand deep in the plunge pool of a waterfall*, below the surface where the water crashes into the basin. There is a slight softness to it, down in the depths. Very calming to touch.
 `}),kr={},Ar={...Or,...kr};function jr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Mr=e=>String(e).trim().toLowerCase()===`true`;function Nr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var L=Object.entries(Ar).map(([e,t])=>{let{data:n,content:r}=jr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Nr(a),rawDate:a,body:r,draft:Mr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Pr=Object.assign({"../content/posts/first-post.md":`---
 title: Why I Built This Site 

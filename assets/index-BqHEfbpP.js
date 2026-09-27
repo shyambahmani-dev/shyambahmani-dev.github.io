@@ -686,6 +686,11 @@ date: Sep 26, 2026
 ---
 
 Adding a new colorful back-panel to my old 2010s laptop has made it even more lovable to me now. 
+`,"../content/thoughts/2026-09-27-000.md":`---
+date: Sep 27, 2026
+---
+
+'Voh bulk hi kya jisme *thoda sa cholesterol na bigde*' (I have to cut now).
 `}),Ar={},jr={...kr,...Ar};function Mr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Nr=e=>String(e).trim().toLowerCase()===`true`;function Pr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var I=Object.entries(jr).map(([e,t])=>{let{data:n,content:r}=Mr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Pr(a),rawDate:a,body:r,draft:Nr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Fr=Object.assign({"../content/posts/first-post.md":`---
 title: Why I Built This Site 

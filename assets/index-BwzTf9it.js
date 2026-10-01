@@ -706,6 +706,21 @@ date: Sep 30, 2026
 ---
 
 With experience, I have become *slightly*, slightly *calmer* in my profession now, and slightly detached. Slightly, for I have long ways to go still, but yes.
+`,"../content/thoughts/2026-10-01-000.md":`---
+date: Oct 01, 2026
+---
+
+I strayed, or actually panicked out of the plan again. I didn't pay for it per say, but I didn't extract from it what I could. Well, I'll practice more now. And then stick with it with more conviction.
+`,"../content/thoughts/2026-10-02-000.md":`---
+date: Oct 02, 2026
+---
+
+The parts I am good at, I am quite good at them. I am happy about that. *Quite happy about that.*
+`,"../content/thoughts/2026-10-02-001.md":`---
+date: Oct 02, 2026
+---
+
+I sung them for you. Yes, *for you.*
 `}),Ar={},jr={...kr,...Ar};function Mr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Nr=e=>String(e).trim().toLowerCase()===`true`;function Pr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var I=Object.entries(jr).map(([e,t])=>{let{data:n,content:r}=Mr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Pr(a),rawDate:a,body:r,draft:Nr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Fr=Object.assign({"../content/posts/first-post.md":`---
 title: Why I Built This Site 

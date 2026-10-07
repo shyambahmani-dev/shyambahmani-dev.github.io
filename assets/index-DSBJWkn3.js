@@ -736,6 +736,11 @@ date: Oct 07, 2026
 ---
 
 I am being serious absolutely no dirty thoughts here *(I have dirty thoughts).* 
+`,"../content/thoughts/2026-10-07-001.md":`---
+date: Oct 07, 2026
+---
+
+It is a *never ending* sort of *waterfall of desires* when it comes to building something like this place/website, at first I just wanted to be able to present my thoughts in a place which was aethetic and to my desires and requirements, now I am thinking 'maybe I need to make a text editor for myself too the other ones are just far too ugly to write in' and thoughts like these just never stop. I don't think they should, you *don't have to act on them all the time necessarily.*
 `}),Ar={},jr={...kr,...Ar};function Mr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Nr=e=>String(e).trim().toLowerCase()===`true`;function Pr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var I=Object.entries(jr).map(([e,t])=>{let{data:n,content:r}=Mr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Pr(a),rawDate:a,body:r,draft:Nr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Fr=Object.assign({"../content/posts/art-appreciation-upcoming.md":`---
 title: Appreciation for Art

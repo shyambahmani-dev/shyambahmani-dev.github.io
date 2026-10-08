@@ -745,9 +745,18 @@ It is a *never ending* sort of *waterfall of desires* when it comes to building 
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Nr=e=>String(e).trim().toLowerCase()===`true`;function Pr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var I=Object.entries(jr).map(([e,t])=>{let{data:n,content:r}=Mr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Pr(a),rawDate:a,body:r,draft:Nr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Fr=Object.assign({"../content/posts/art-appreciation-upcoming.md":`---
 title: Appreciation for Art
 excerpt: The Stab of Longing that Beauty Triggers
-upcoming: true
+upcoming: false
+preview: true
+released:
 ---
 
+
+A lot of art seems understandable to me now, or atleast I can understand why it is appreciated. And I'd emphasize on the fact that I have acquired, this ability, because I remember a time when I did not respect nor appreciate art, per say, as much. 
+
+As a kid, I could understand and praise the proficiency of the technical skill required to create something humanity at large deems worthy of praise, something that would make someone a great artist. As in, "Yeah, its quite pretty and and must have been very difficult to make". Effective and unique use of paint and colors, wonderful. Hammering and sculpting a marvelous structure, a life-like statue out of marble, fascinating. What a great technician, you know, what great control of tools and what a fantastic imagination. The skill required as an artist is, a very niche but hard to learn, and its masters should get respect.
+
+What always perplexed me was:
+How could it make people cry?
 
 `,"../content/posts/first-post.md":`---
 title: Why I Built This Site 

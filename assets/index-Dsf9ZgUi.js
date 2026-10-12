@@ -756,6 +756,16 @@ date: Oct 11, 2026
 ---
 
 Amount of *work* done matters, and its good to do *a lot* of it. Executing it on time and getting it done at the *right time* is what's actually *crucial*.
+`,"../content/thoughts/2026-10-12-000.md":`---
+date: Oct 12, 2026
+---
+
+In many *regimented programs or institutions*, especially ones which have *some prestige* attached to them, often one has to do seemingly pointless *stupid* tasks and activities for no other reason than it's just *'Do stupid pointless activity time'* and acknowledgement of this fact makes it easier to get through with it.
+`,"../content/thoughts/2026-10-12-001.md":`---
+date: Oct 12, 2026
+---
+
+I have really disliked and avoided places where there were *designated* 'do stupid tasks' time as part of the routine. Like HR I suppose. 
 `}),Ar={},jr={...kr,...Ar};function Mr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Nr=e=>String(e).trim().toLowerCase()===`true`;function Pr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var I=Object.entries(jr).map(([e,t])=>{let{data:n,content:r}=Mr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Pr(a),rawDate:a,body:r,draft:Nr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Fr=Object.assign({"../content/posts/art-appreciation-upcoming.md":`---
 title: Appreciation for Art

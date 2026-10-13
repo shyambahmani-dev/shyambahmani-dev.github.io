@@ -771,6 +771,11 @@ date: Oct 13, 2026
 ---
 
 Days can really whiz by if you don't take time to pause and reflect, and in all honesty *talk to yourself.* One of the most useful and best things I learned to do, just taking some time off and talking to yourself. It can come naturally, *if something really perplexed you.* 
+`,"../content/thoughts/2026-10-13-001.md":`---
+date: Oct 13, 2026
+---
+
+I'd like for jokes to come back to me, so as a start I'm just going to say *Banana* Banana Banayna...
 `}),Ar={},jr={...kr,...Ar};function Mr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Nr=e=>String(e).trim().toLowerCase()===`true`;function Pr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var I=Object.entries(jr).map(([e,t])=>{let{data:n,content:r}=Mr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Pr(a),rawDate:a,body:r,draft:Nr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Fr=Object.assign({"../content/posts/art-appreciation-upcoming.md":`---
 title: Appreciation for Art

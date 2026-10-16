@@ -6,7 +6,16 @@
     <atom:link href="https://shyambahmani-dev.github.io/thoughts.xml" rel="self" type="application/rss+xml" />
     <description>Short, tweet-style posts by Shyam Bahmani.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 06:30:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:31:08 GMT</lastBuildDate>
+    <item>
+      <title>Well if it isn&apos;t the old Bananas again....</title>
+      <link>https://shyambahmani-dev.github.io/#/thoughts/2026-10-16-000</link>
+      <guid isPermaLink="false">https://shyambahmani-dev.github.io/#/thoughts/2026-10-16-000</guid>
+      <pubDate>Thu, 15 Oct 2026 18:30:00 GMT</pubDate>
+      <description>Well if it isn&apos;t the old Bananas again....</description>
+      <content:encoded><![CDATA[<p>Well if it isn&#39;t the <em>old Bananas</em> again....</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>I found new features to add to the website, while fixing some bugs. I…</title>
       <link>https://shyambahmani-dev.github.io/#/thoughts/2026-10-15-000</link>

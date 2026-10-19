@@ -811,6 +811,42 @@ date: Oct 19, 2026
 ---
 
 Executing my plan again. I have *hope in my self* that I will remain disciplined. Let's see this through. *Jai Shri Krishna!*
+`,"../content/thoughts/2026-10-19-001.md":`---
+date: Oct 19, 2026
+---
+
+I have to carve out space for my writing. If I don't do that, I find it real hard to do it. It is getting pushed out of my list of *priorities* otherwise, and I don't want that to happen. Doomscrolling is addictive so making a space is quite important.
+`,"../content/thoughts/2026-10-20-000.md":`---
+date: Oct 20, 2026
+---
+
+I saw some old things I posted, from 5-8 years ago. I had *similar* courage back then as well, but I am much more *subtle* now.
+`,"../content/thoughts/2026-10-20-001.md":`---
+date: Oct 20, 2026
+---
+
+I was a bit surprised to see, from my old posted stuff from years ago, that I acknowledged and followed some of the very key professional principles of my work that *early*, I thought I learned it way later. I was pleasantly surprised. And pleasantly, I was always *opinionated.*
+`,"../content/thoughts/2026-10-20-002.md":`---
+date: Oct 20, 2026
+---
+
+Years, years ago I was rash, I was a brute, I was a maniac in some sense, but I played on my self-awareness, to self-amuse and to walk the *thin line between cringe and funny.* I was *funny* most of the time. I hedged my bets a lot back then. Even behind the *rashness*, it was quite visible that it was a kid who *cared.* 
+`,"../content/thoughts/2026-10-20-003.md":`---
+date: Oct 20, 2026
+---
+
+What I find to be quite interesting about my brashness from years ago is that I fundamentally wanted to make a spectacle, amuse with the brashness, be quite *abrasive* and yet implicitly express somehow that I did care about the reader. I was an artist of sorts, I cared about the reader. I didn't completely go off the rails, because I cared. Not particularly about being perceived as a nice person, but about being *perceived as intentional*, who has put some effort in his creation, some creativity in his creation. And in some sense I wanted to present a *logical* argument, abrasively. Because at the very least the shock value does make you stand out, and get noticed. *(Should have split this thought into two).*
+
+`,"../content/thoughts/2026-10-20-004.md":`---
+date: Oct 20, 2026
+---
+
+Was I *hedging my bets?* No. Was I afraid of being *naked?* With my thoughts? *Nope.* I did say what I wanted to. It was just *empathy of sorts, that leaked into the abrasion,* back then. And in some sense, still does. Lesser so, I try to be more confrontational now. The empathy now *resides in* the aesthetic, *in the feel* and the presentation of this writing and this publishing medium, my website. And about that I care, I empathize. And sometimes (and I am not really *gleeful* about accepting this fact), it shows up in my writing too. 
+`,"../content/thoughts/2026-10-20-005.md":`---
+date: Oct 20, 2026
+---
+
+There is a *desire to not indulge in the 'fee-fees'* too much per say, but I think it should be written, somewhere. *They matter,* embarrassingly so.
 `}),kr={},Ar={...Or,...kr};function jr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Mr=e=>String(e).trim().toLowerCase()===`true`;function Nr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var L=Object.entries(Ar).map(([e,t])=>{let{data:n,content:r}=jr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Nr(a),rawDate:a,body:r,draft:Mr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Pr=Object.assign({"../content/posts/art-appreciation-in-progress.md":`---
 title: Appreciation for Art

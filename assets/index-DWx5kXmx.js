@@ -853,6 +853,16 @@ date: Oct 20, 2026
 
 By the way, I have proudly followed through and *stuck with the* previously mentioned *plan so far*. It was profitable, so it was relatively easy I suppose, but it is a marker of growth, usually I book profits too early. I am very paranoid about being hopped up on hopium and blowing up my capital, but I think the other extreme isn't good either. Now I am *actively and positively working* on it, evidently so. So I am quite happy about that. *Jai Shri Krishna!*
 
+`,"../content/thoughts/2026-10-23-000.md":`---
+date: Oct 23, 2026
+---
+
+*Greatest Of All Time.*
+`,"../content/thoughts/2026-10-23-001.md":`---
+date: Oct 23, 2026
+---
+
+Stuck with the plan like 80%, not the best, panicked out again but atleast made it 80% of the way there, previously I used to exit at 20% or 50% at max, so a mark of progress. I will do better next time. I'll be fine man, for I am, the *Greatest Of All Time.*
 `}),kr={},Ar={...Or,...kr};function jr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Mr=e=>String(e).trim().toLowerCase()===`true`;function Nr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var L=Object.entries(Ar).map(([e,t])=>{let{data:n,content:r}=jr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Nr(a),rawDate:a,body:r,draft:Mr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Pr=Object.assign({"../content/posts/art-appreciation-in-progress.md":`---
 title: Appreciation for Art

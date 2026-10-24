@@ -863,6 +863,51 @@ date: Oct 23, 2026
 ---
 
 Stuck with the plan like 80%, not the best, panicked out again but atleast made it 80% of the way there, previously I used to exit at 20% or 50% at max, so a mark of progress. I will do better next time. I'll be fine man, for I am, the *Greatest Of All Time.* 
+`,"../content/thoughts/2026-10-25-000.md":`---
+date: Oct 25, 2026
+---
+
+Today I realized to a much more fuller capacity that I am *severely attracted* to both friction and submission. I didn't think of myself to be that kind of person, but *I am not really surprised.* 
+`,"../content/thoughts/2026-10-25-001.md":`---
+date: Oct 25, 2026
+---
+
+I can't help but get back to work, it is so, *addictive*, whilst being highly rewarding. Quite, quite grateful for it. I wouldn't know what to do with myself otherwise. 
+`,"../content/thoughts/2026-10-25-002.md":`---
+date: Oct 25, 2026
+---
+
+I find decision making can be hard if it is in things important but not urgent because things important and urgent need attention, and usually you never run out of things which are important and urgent. Interesting. *You gotta just push urgent things away, even if they feel urgent.* 
+`,"../content/thoughts/2026-10-25-003.md":`---
+date: Oct 25, 2026
+---
+
+Although there is quite a bit of difference between something being urgent and something feeling like it is urgent. I guess a *relaxed mind* can decipher the difference. 
+`,"../content/thoughts/2026-10-25-004.md":`---
+date: Oct 25, 2026
+---
+
+You can however, get kinda *addicted to feeling un-relaxed,* from time to time. Because atleast you're not being lazy, or even if you are procrastinating. *Our minds are fascinating.*
+`,"../content/thoughts/2026-10-25-005.md":`---
+date: Oct 25, 2026
+---
+
+I don't wanna sound like I am being a self-help coach or something but hey, that's what I love about this, *it's my playground, I made it.* Hay..hay..hay... 
+`,"../content/thoughts/2026-10-25-006.md":`---
+date: Oct 25, 2026
+---
+
+Jokes seemed to have escaped me for a minute now. I guess I gotta keep them (in a) safe. *Buhdumtiss...*
+`,"../content/thoughts/2026-10-25-007.md":`---
+date: Oct 25, 2026
+---
+
+By the way I don't particularly have dirty thoughts, but it must be noted that that last thought about *being severely attracted to both friction and submission* was supposed to be about romance. I think the intent got lost in the stream of consciousness thoughts that followed, but hey, *still no dirty thoughts here.* 
+`,"../content/thoughts/2026-10-25-008.md":`---
+date: Oct 25, 2026
+---
+
+I am feeling like I sound a bit, just a tiny bit lame for sometime now. I think it is because I haven't been able to think or devote as much time or bandwidth to my dear website in a while. Or maybe it's just a phase and it'll pass, who knows. All I can say is, *I am a Doodhpaglu.* Jai Shri Krishna! 
 `}),kr={},Ar={...Or,...kr};function jr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Mr=e=>String(e).trim().toLowerCase()===`true`;function Nr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var L=Object.entries(Ar).map(([e,t])=>{let{data:n,content:r}=jr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Nr(a),rawDate:a,body:r,draft:Mr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Pr=Object.assign({"../content/posts/art-appreciation-in-progress.md":`---
 title: Appreciation for Art

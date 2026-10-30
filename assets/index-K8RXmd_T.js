@@ -918,6 +918,11 @@ date: Oct 30, 2026
 ---
 
 Still being the *right kind of busy.* Yay!
+`,"../content/thoughts/2026-10-31-000.md":`---
+date: Oct 31, 2026
+---
+
+Recently hit a 500kg powerlifting total. Quite, quite happy about it. Not as much as when I hit 2 plate bench, and not even as much as when I hit the 4 plate squat for 3 reps. But somehow, that round figure of *500kg* makes me *feel a little satisfied in a very unique and specific way.* 
 `}),kr={},Ar={...Or,...kr};function jr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Mr=e=>String(e).trim().toLowerCase()===`true`;function Nr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var L=Object.entries(Ar).map(([e,t])=>{let{data:n,content:r}=jr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Nr(a),rawDate:a,body:r,draft:Mr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Pr=Object.assign({"../content/posts/art-appreciation-in-progress.md":`---
 title: Appreciation for Art

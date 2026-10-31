@@ -1524,9 +1524,11 @@ Tera saath bane meri raahat.
 
 <br/>
 
-Par ab door na karna mujhko tum,
+Par ab door na karna mujhko tum.
 
-Nahi rahi mujhe ab sirf majboor rehne ki aadat." 
+Ab nahi rahi mujhe bahot der,
+
+Sirf majboor rehne ki aadat." 
 
 ~ (2025)
 

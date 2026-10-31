@@ -1590,7 +1590,9 @@ Saath tumhe mera,
 
 <br/>
 
-Toh jee lena baaqi saari zindagi tum humein bhula ke."
+Toh jee lena baaqi jeevan saara,
+
+Tum humein bhula ke."
 
 <br/>
 <br/>
@@ -1598,17 +1600,17 @@ Toh jee lena baaqi saari zindagi tum humein bhula ke."
 
 7. 
 
-"Meri jaan vaise toh yeh mann mera,
+"Jaanemann vaise toh yeh mann mera,
 
-Chahe ke main humesha,
+Chahe yeh ki main humesha,
 
 Jeeyun bina kisi ke sahaare.
 
 <br/>
 
-Par jaanemann tumne kiye aise ishaare,
+Par meri jaan tumne kiye aise ishaare,
 
-ke maine rakhkh ke vivek ko kinaare.
+Ke maine rakhkh vivek ko kinaare,
 
 Kuch der tumhare iss khel mein rammna theek samjha. "
 

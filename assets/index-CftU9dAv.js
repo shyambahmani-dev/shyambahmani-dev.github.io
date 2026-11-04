@@ -1633,7 +1633,7 @@ preview: true
 ---
 
 
-# What's been up?
+## What's been up?
 
 
 The world is definitely way more louder than it used to be (pick any past datetime stamp), and its getting more so each day. There are more number of voices and noises coming from it. And we are very creatively, sometimes deceptively and sometimes pretty blatantly being made to hear it as much as the world can make us.

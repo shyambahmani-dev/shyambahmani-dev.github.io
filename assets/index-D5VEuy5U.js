@@ -1544,7 +1544,8 @@ released: true
 
 1. 
 
->"Haan rehta hu behpanah lekin,<br/>Tanhai ka mujhe koi fitoor nahi.<br/><br/>
+>"Haan rehta hu behpanah lekin,<br/>
+Tanhai ka mujhe koi fitoor nahi.<br/><br/>
 Par aisa pyaar karke bhi kya faeda,<br/>
 Jisme dil majboor nahi. "
 
@@ -1559,8 +1560,8 @@ Jisme dil majboor nahi. "
 Meri majboori mein,<br/><br/>
 Tera saath bane meri raahat.<br/>
 Par ab door na karna mujhko tum.<br/><br/>
-Ab nahi rahi mujhe bahot der,<br/>
-Sirf majboor rehne ki aadat." 
+Na rahi mujhe bahot der sirf,<br/>
+Majboor rehne ki aadat." 
 
 ~ (2025)
 
@@ -1617,7 +1618,7 @@ Chahe yeh ki main humesha,<br/><br/>
 Jeeyun bina kisi ke sahaare.<br/><br/>
 Par meri jaan tumne kiye aise ishaare,<br/>
 Ke maine rakhkh vivek ko kinaare,<br/><br/>
-Kuch der tumhare iss khel mein rammna theek samjha. "
+Kuch der tere iss khel mein rammna theek samjha. "
 
 <br/>
 <br/>

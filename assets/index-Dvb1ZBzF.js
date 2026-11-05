@@ -966,6 +966,16 @@ date: Nov 04, 2026
 ---
 
 I did a 230kg or 507lb deadlift for single yesterday. 500lb+ deadlift is a pretty good number. I am quite *happy* and *proud* of my progress, but I shared this news with a lot of people yesterday. I think I *risk getting 'nazar-lagna'.* I am gonna play it safe for a while now, honestly I am a bit scared. I'll play it safe and low risk for a bit. I don't wanna be nazar-lagna-ed. *One shouldn't share good news too much,* I wanted to, but I shouldn't have broadcasted it as much as I did. 
+`,"../content/thoughts/2026-11-05-000.md":`---
+date: Nov 05, 2026
+---
+
+Quite glad, quite, *quite happy,* there were so many things in my website that I had to *fix and add,* and I did. I worked on my website again, this medium that you are seeing, it is so much more better now. Yay! *I thought it was all done. Apparently not ehh...* 
+`,"../content/thoughts/2026-11-05-001.md":`---
+date: Nov 05, 2026
+---
+
+And having found problems to fix and things to add to my medium, this website, after I thought I was done making it; this makes me realize is that a lot of the problems in these kinda projects are only found once you have had a certain distance from it in a creative capacity. Just make use of your creation, discover problems and explore ideas as a user. Then machine-gun solve it all. *Give it your all, create distance, use, note, give it your all again. Again and again.* 
 `}),kr={},Ar={...Or,...kr};function jr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Mr=e=>String(e).trim().toLowerCase()===`true`;function Nr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var L=Object.entries(Ar).map(([e,t])=>{let{data:n,content:r}=jr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Nr(a),rawDate:a,body:r,draft:Mr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Pr=Object.assign({"../content/posts/art-appreciation-in-progress.md":`---
 title: Appreciation for Art

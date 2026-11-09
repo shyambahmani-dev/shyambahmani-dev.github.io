@@ -978,7 +978,17 @@ Quite glad, quite, *quite happy,* there were so many things in my website that I
 date: Nov 05, 2026
 ---
 
-And having found problems to fix and things to add to my medium, this website, after I thought I was done making it; this makes me realize is that a lot of the problems in these kinda projects are only found once you have had a certain distance from it in a creative capacity. Just make use of your creation, discover problems and explore ideas as a user. Then machine-gun solve it all. *Give it your all, create distance, use it, make note of improvements, and then give it your all again.* Again and again. 
+And having found problems to fix and things to add to my medium, this website, after I thought I was done making it; makes me realize that a lot of the problems in these kinda projects are only found once you have had a certain distance from it in a creative capacity. Just make use of your creation, discover problems and explore ideas as a user. Then machine-gun solve it all. *Give it your all, create distance, use it, make note of improvements, and then give it your all again.* Again and again. 
+`,"../content/thoughts/2026-11-06-000.md":`---
+date: Nov 06, 2026
+---
+
+Conformity begets stupidity, and thus structures become exploitable. Question them, Identify Weaknesses, Exploit them, Make *your* gains. Probably will still stay stupid in your own ways, but just not theirs. *Raid their stupidity.* 
+`,"../content/thoughts/2026-11-07-000.md":`---
+date: Nov 07, 2026
+---
+
+The level of focus on my work that I have after having partied a bit last night is quite, revealing, and honestly not a *very comfortable* thought to sit with. I wanted to de-stress a bit, somewhere. Now that I have done so, I feel much better. I am able to work somewhat with more eagerness, now. I'll have to think about this more. 
 `}),Ar={},jr={...kr,...Ar};function Mr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Nr=e=>String(e).trim().toLowerCase()===`true`;function Pr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var I=Object.entries(jr).map(([e,t])=>{let{data:n,content:r}=Mr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Pr(a),rawDate:a,body:r,draft:Nr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Fr=Object.assign({"../content/posts/art-appreciation-in-progress.md":`---
 title: Appreciation for Art

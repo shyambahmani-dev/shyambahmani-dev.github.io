@@ -999,10 +999,22 @@ date: Nov 10, 2026
 ---
 
 Being a man of the market requires two strongly held beliefs, firstly that the market's wisdom reigns supreme, and secondly that *I am* smarter, than, everybody else. 
+`,"../content/thoughts/2026-11-11-000.md":`---
+date: Nov 11, 2026
+---
+
+Progress *feels* good. I feel like a juggernaut.
+`,"../content/thoughts/2026-11-11-001.md":`---
+date: Nov 11, 2026
+---
+
+I did some stupid things again. It always hurts, I always have to move on. I wanna *stop doing stupid things* though, or atleast do them less. One good thing is that I am definitely doing substantially less stupid things today compared to 6 months ago, *it is a good thing*. I wanna say 'its a good thing, I guess' , but no, it is a *good thing.* 
 `}),Ar={},jr={...kr,...Ar};function Mr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
-`).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Nr=e=>String(e).trim().toLowerCase()===`true`;function Pr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var I=Object.entries(jr).map(([e,t])=>{let{data:n,content:r}=Mr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Pr(a),rawDate:a,body:r,draft:Nr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Fr=Object.assign({"../content/posts/art-appreciation-in-progress.md":`---
+`).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Nr=e=>String(e).trim().toLowerCase()===`true`;function Pr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var I=Object.entries(jr).map(([e,t])=>{let{data:n,content:r}=Mr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Pr(a),rawDate:a,body:r,draft:Nr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Fr=Object.assign({"../content/posts/art-appreciation-preview.md":`---
 title: Appreciation for Art
-date:
+start_date: 04 Oct 2026
+last_edit: 06 Nov 2026
+date: 06 Nov 2026
 draft: false
 excerpt: A stab of Longing that Beauty triggers
 released: false
@@ -1012,12 +1024,26 @@ preview: true
 
 
 
-A lot of art seems understandable to me now, or atleast I can understand why it is appreciated. And I'd emphasize on the fact that I have acquired, this ability, because I remember a time when I did not respect nor appreciate art, per say, as much. 
+<br/>
 
-As a kid, I could understand and praise the proficiency of the technical skill required to create something humanity at large deems worthy of praise, something that would make someone a great artist. As in, "Yeah, its quite pretty and and must have been very difficult to make". Effective and unique use of paint and colors, wonderful. Hammering and sculpting a marvelous structure, a life-like statue out of marble, fascinating. What a great technician, you know, what great control of tools and what a fantastic imagination. The skill required as an artist is, a very niche but hard to learn, and its masters should get respect.
 
-What always perplexed me was:
-How could it make people cry?
+Art, as a concept has always felt a bit foreign to me. Ever since I was kid, ever since I learned from the world the concept that there is a thing called Art and there is another thing called Science. I vaguely but somehow confidently remember that in some school book of mine, Art and Science were listed as separate fields of study, as separate fields of pursuit. I am making it up, but pretty sure Science was described to me in a broad sense, as a study of what the world was made of and how the world operates. It was quite easy to interpret for me. Art on the other hand, I remember it being related to human culture, creative expression, and emotions somehow? I don't remember it that clearly.
+
+I just remember there being pictures of someone painting, someone dancing, and some Greek sculpture, or maybe it was Roman (I seem to come across to people as someone who must know the difference, I don't). All I remember feeling and thinking is — What is culture? What is creative expression? These people seem to be doing things which weren't really that essential. I mean science people make rockets, and TVs, and medicine. Art? Isn't that stuff just for fun? Art class is a very chill class, I kinda just relax in it. Do these Art people get paid well? Isn't it kinda just, like a facade? I mean okay its pretty but you expect me to make a career out of it? Who makes a career out of dancing? I know dancers and actors and singer, they are in movies, in those song-sections. They wear quite revealing clothes, and kiss, which is a bad thing. Art? I don't know man. Art is about love and stuff. I have to get good grades. I am going to be a rich man.
+
+I remember having these as ideas, not really as concrete thoughts in the forefront of my mind, but as sort of a fog of semantics my brain went through as I tried to figure out what the hell Art is and why it was important. I drew well, well, well enough. I read books and magazines, I liked coloring, I sang well, as well, atleast my teachers said so. But taking it seriously? I mean who takes coloring or drawing in magazines seriously? I wanted to make them well, but that had nothing to do with taking it seriously, I just liked being good at stuff and creating things that I liked, could be proud of and things which impressed people. But that was it. Who takes Art seriously?
+
+But then, I turned 13, and I wanted to learn how to play the guitar, to complement my singing. Why? Because I was 13, I wanted to impress girls. And there, you see, I **really did want** to sing well, and I **really did want** to play my guitar well. This was not just for fun, I really wanted to impress girls. And that required competence. Actual competence. And for that I had to commit to learning, to play my guitar. I had to put effort, and I had to practice. Practice, like how I practiced solving my physics problems, or understanding and committing to memory chemical reactions and their real world applications, or remembering my maths formulas and problem solving techniques and implementing them.
+
+I had to practice and put effort into learning music. I had to learn music theory, understand notes and chords, the circular progression of the 12 notes from A to G#, remember chord shapes, notes on the string, the fretboard (I still haven't crystallized it in my memory, I just know open string notes and their progression). I had to put effort into pressing the strings of the chords correctly, as well as quickly transitioning to another position properly. I found out that barre chords like F were very hard to play correctly, and that B was seemingly impossible to play with just two fingers. Hell, as a kid, it is only after one properly practices playing guitar for something like a month and only after they actually acquire the finger-pressing strength needed to press the strings properly that they realize that D is a actually a shrill sound, that they just weren't pressing the first three strings hard enough.
+
+And this entire ordeal, of getting half-decent at playing Bollywood songs on guitar, made me understand, and actually appreciate, art to a certain capacity.
+
+I could finally understand and praise the proficiency of the technical skill required to create something humanity at large deems worthy of praise, something that would make someone a great artist. As in, "Yeah, its quite pretty and and must have been very difficult to make". Effective and unique use of paint and colors and lines and perspectives, absolutely wonderful. Hammering and sculpting a marvelous structure, a life-like statue out of marble, how fascinating. What a great technician, you know, what great control of tools and what a fantastic imagination. The skill required as an artist is, a very niche but hard to learn, and its masters should get respect.
+
+What still always perplexed me was:
+
+***How could it make people cry?***
 
 
 
@@ -1670,12 +1696,17 @@ Hum pyaar ki pyaas ko bhul gaye."
 
 `,"../content/posts/on-marketing-preview.md":`---
 title: On Marketing
-excerpt: Everyone's holding a banner. And I am being made to pay attention to it.
+start_date: 02 Jun 2026
+last_edit: Oct 02, 2026
+date: Oct 02, 2026
 preview: true
+excerpt: Everyone's holding a banner. And I am being made to pay attention to it.
+released: false
 ---
 
+<br/>
 
-## What's been up?
+# What's been up?
 
 
 The world is definitely way more louder than it used to be (pick any past datetime stamp), and its getting more so each day. There are more number of voices and noises coming from it. And we are very creatively, sometimes deceptively and sometimes pretty blatantly being made to hear it as much as the world can make us.
@@ -1719,7 +1750,6 @@ Introduced by who? Well, *the world* actually.
 
 
 ## The corporate world as I saw it as a teen
-
 
 `,"../content/posts/the-slow-poison-called-compromise.md":`---
 title: The slow poison of Compromise

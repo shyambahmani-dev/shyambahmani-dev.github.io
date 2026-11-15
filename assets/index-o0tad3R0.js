@@ -1014,6 +1014,32 @@ date: Nov 13, 2026
 ---
 
 '...Neytr noch le uss mastak se jisne teri haar ke swapn dekhe the. Aur joh haath utthe ghar ki izzat par voh haath tu ukhaad de, singh garjan kar tu ek baar phir dahaad de, aur chhoot gay joh baanon ka tuneer tujhe hai saugandh usse phir se uththa, *aur cheekh raha hai yeh Gandeev, tu ek-ek karke sheesh gira.*'
+`,"../content/thoughts/2026-11-15-000.md":`---
+date: Nov 15, 2026
+---
+
+One of the *greatest betrayals* I did was not call out the bullshit of the *people I cared about.* 
+`,"../content/thoughts/2026-11-15-001.md":`---
+date: Nov 15, 2026
+---
+
+I am sorry, for I did not speak the truth to you. I should have. You *trusted me* to, and I didn't. Speaking the truth to people no matter how much you care about them is what leadership is. *I failed you, I'm sorry.* 
+`,"../content/thoughts/2026-11-15-002.md":`---
+date: Nov 15, 2026
+---
+
+*If* one absolutely has to *fight* a group of people, then always walk towards the crowd. Approach them first, never let them approach you. Then, try to take their *souls.* 
+
+`,"../content/thoughts/2026-11-15-003.md":`---
+date: Nov 15, 2026
+---
+
+*I miss* being extremely handsome. I'm gonna get back to being extremely *handsome again.* 
+`,"../content/thoughts/2026-11-15-004.md":`---
+date: Nov 15, 2026
+---
+
+My recent writing has taken up a little bit of darker shades. In some ways, I think, that it is weird. But another part of me wonders *why it took so long.*
 `}),Ar={},jr={...kr,...Ar};function Mr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Nr=e=>String(e).trim().toLowerCase()===`true`;function Pr(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:`${String(t.getDate()).padStart(2,`0`)} ${t.toLocaleDateString(`en-US`,{month:`short`})} ${t.getFullYear()}`}var I=Object.entries(jr).map(([e,t])=>{let{data:n,content:r}=Mr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:Pr(a),rawDate:a,body:r,draft:Nr(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=new Date(t.rawDate)-new Date(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Fr=Object.assign({"../content/posts/art-appreciation-preview.md":`---
 title: Appreciation for Art
@@ -1699,7 +1725,7 @@ Hum pyaar ki pyaas ko bhul gaye."
 
 
 
-`,"../content/posts/on-marketing-preview.md":`---
+`,"../content/posts/on-marketing.md":`---
 title: On Marketing
 start_date: 02 Jun 2026
 last_edit: Oct 02, 2026

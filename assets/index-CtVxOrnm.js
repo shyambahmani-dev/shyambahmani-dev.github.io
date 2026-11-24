@@ -1055,6 +1055,11 @@ date: 20 Nov 2026
 ---
 
 Hey *Hey* Hey! What a great day!
+`,"../content/thoughts/2026-11-24-000.md":`---
+date: 24 Nov 2026
+---
+
+Been busy. Kinda productive. A bit guilty too, I could and I should *work harder.* 
 `}),Br={},Vr={...zr,...Br};function Hr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Ur=e=>String(e).trim().toLowerCase()===`true`,L=Object.entries(Vr).map(([e,t])=>{let{data:n,content:r}=Hr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:mr(a),rawDate:a,body:r,draft:Ur(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=fr(t.rawDate)-fr(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Wr=Object.assign({"../content/posts/art-appreciation-preview.md":`---
 title: Appreciation for Art

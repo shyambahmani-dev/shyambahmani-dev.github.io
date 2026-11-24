@@ -1065,7 +1065,7 @@ Been busy. Kinda productive. A bit guilty too, I could and I should *work harder
 title: Appreciation for Art
 start_date: 04 Oct 2026
 last_edit: 06 Nov 2026
-date: 06 Nov 2026
+date: 04 Oct 2026
 draft: false
 excerpt: A stab of Longing that Beauty triggers
 released: false

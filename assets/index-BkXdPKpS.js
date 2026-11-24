@@ -1013,7 +1013,7 @@ I did some stupid things again. It always hurts, I always have to move on. I wan
 date: 13 Nov 2026
 ---
 
-'...Neytr noch le uss mastak se jisne teri haar ke swapn dekhe the. Aur joh haath utthe ghar ki izzat par voh haath tu ukhaad de, singh garjan kar tu ek baar phir dahaad de, aur chhoot gay joh baanon ka tuneer tujhe hai saugandh usse phir se uththa, *aur cheekh raha hai yeh Gandeev, tu ek-ek karke sheesh gira.*'
+'...Neytr noch le uss mastak se jisne teri haar ke swapn dekhe the. Aur joh haath utthe ghar ki izzat par voh haath tu ukhaad de, singh garjan kar tu ek baar phir dahaad de, aur chhoot gaya joh baanon ka tuneer tujhe hai saugandh usse phir se uththa, *aur cheekh raha hai yeh Gandeev, tu ek-ek karke sheesh gira.*'
 `,"../content/thoughts/2026-11-15-000.md":`---
 date: 15 Nov 2026
 ---

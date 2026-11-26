@@ -1070,6 +1070,11 @@ date: 27 Nov 2026
 ---
 
 Had my first instance (and good God I hope the only one although now I am not sure) of Claude deleting my entire database. I recovered it, or to be more precise, it guided me and I recovered the deleted database. But *good God I know how it feels now.*
+`,"../content/thoughts/2026-11-27-001.md":`---
+date: 27 Nov 2026
+---
+
+The AI messed up and I didn't know how to react. I can't scream or get mad at a computer screen? I can't physically berate or do anything, I just had to move on to fixing its mistake. I couldn't help but laugh, it wasn't funny, but what else can you do ehh, you made the choice to use AI afterall. *So I laughed.* 
 `}),Br={},Vr={...zr,...Br};function Hr(e){let t=e.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);if(!t)return{data:{},content:e.trim()};let n={};return t[1].split(`
 `).forEach(e=>{let t=e.indexOf(`:`);t<0||(n[e.slice(0,t).trim()]=e.slice(t+1).trim())}),{data:n,content:t[2].trim()}}var Ur=e=>String(e).trim().toLowerCase()===`true`,L=Object.entries(Vr).map(([e,t])=>{let{data:n,content:r}=Hr(t),i=e.split(`/`).pop().replace(`.md`,``),a=n.date||``;return{slug:i,date:mr(a),rawDate:a,body:r,draft:Ur(n.draft)}}).filter(e=>!e.draft).sort((e,t)=>{let n=fr(t.rawDate)-fr(e.rawDate);return n===0?t.slug.localeCompare(e.slug):n}),Wr=Object.assign({"../content/posts/art-appreciation-preview.md":`---
 title: Appreciation for Art
